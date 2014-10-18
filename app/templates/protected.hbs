@@ -1,0 +1,8 @@
+      <div class="page-header">
+        <h1>Torii example</h1>
+      </div>
+      {{#unless session.isAuthenticated}}
+        <div class="alert alert-info">
+          You can {{#link-to 'login' class="alert-link"}}login{{/link-to}} with Torii.
+        </div>
+      {{/unless}}

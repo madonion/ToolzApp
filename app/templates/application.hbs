@@ -1,3 +1,12 @@
-<h2 id='title'>Welcome to Ember.js</h2>
-
-{{outlet}}
+<div class="container">
+	{{partial "header"}}
+<div class="row">
+{{partial "aside"}} 
+	  {{partial "specialisti"}}
+	  	<div class="col-md-9 pzero">
+	  		{{outlet}}		
+	  	</div>
+	  	
+</div><!--main row-->
+{{partial "footer"}}
+</div><!--container-->

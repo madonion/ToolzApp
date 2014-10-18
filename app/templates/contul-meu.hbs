@@ -1,0 +1,10 @@
+<h1>Contul Meu</h1>
+{{#if session.isAuthenticated}}
+			customer_id: {{controllers.application.user.content.customer_id}}<br>
+
+          userul este autentificat, aici isi va putea modifica adrese, telefoane, etc...
+            <a {{ action 'deauthenticate' }} class="btn btn-danger navbar-btn ">Logout</a>
+                      
+          {{else}}
+            {{#link-to 'login' class="btn btn-success navbar-btn"}}Login{{/link-to}}
+{{/if}}

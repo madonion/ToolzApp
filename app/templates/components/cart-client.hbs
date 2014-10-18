@@ -1,0 +1,82 @@
+<div id="cartnclient" class="col-md-3">
+{{#if session.isAuthenticated}}
+    {{!-- mai trebuie slefuit dar deocamdata merge asa --}}
+
+  <div id="buttons" class="btn-group btn-xl btn-group-justified">
+    <div class="btn-group">
+      {{#link-to 'contulMeu'}}
+      <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-user"></span><span> Bine ai venit,<br><strong>{{user.customer_first_name}}</strong></span> </button>
+      {{/link-to}}
+    </div>
+    <div class="btn-group">
+      {{#link-to 'cosulMeu'}}
+      <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-shopping-cart"></span> <span>Cosul meu<br><strong>1.245 Lei</strong></span>
+          <span class="badge">1</span>
+      </button>
+      {{/link-to}}
+    </div>
+  </div>
+
+{{else}}
+  <div id="buttons">
+    <div class="btn-group btn-xl btn-group-justified">
+      <div class="btn-group">
+        {{#link-to 'login'}}
+        <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-user"></span><span> Bine ai venit,<br><strong>Contul meu</strong></span> </button>
+        {{/link-to}}
+      </div>
+      <div class="btn-group">
+        {{#link-to 'cosulMeu'}}
+        <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-shopping-cart"></span> <span>Cosul meu<br><strong>Ai 0 produse</strong></span>
+          <span class="badge">0</span> 
+        </button>
+        {{/link-to}}
+      </div>
+    </div>
+    <div id="xtra-cart" class="col-md-12">
+
+        <form {{action "signInWithToolz" on="submit"}}>
+            {{input type="text" class="login-form" id="email" value=email placeholder="Email" required="required"}}
+            {{input type="password" class="login-form" id="password" value=password placeholder="Parola" required="required" }}
+            
+            <button class="btn navbar-btn" type="submit">Intră în cont</button>
+        </form>
+            {{#link-to 'recuperareParola'}} Am uitat parola{{/link-to}}
+            <br/>
+            Sau intră în cont cu:<br/>
+            <a class="webicon facebook large" {{action "signInWithFacebook"}}>Facebook</a>
+            <a class="webicon linkedin large" {{action "signInWithLinkedIn"}}>LinkedIn</a>
+            <a class="webicon twitter large"  {{action "signInWithTwitter"}}>Twitter</a>
+            <a class="webicon googleplus large" {{action "signInWithGoogle"}}>GooglePlus</a>
+            <br/>
+            Nu ai cont? Crează unul {{#link-to 'contNou'}}aici{{/link-to}}
+
+    </div>
+  </div><!--xtra-->
+  {{/if}}
+
+
+    {{#if user.isPending}}
+      ...Loading user...
+    {{/if}}
+    
+    {{#if user.isRejected}}
+      Failed to load user because: <b>{{user.reason}}</b>.
+    {{/if}}
+    
+    {{!
+      user is not truthy until the PromiseProxyMixin's
+      'isFulfilled' property is true.
+    }}
+    {{#if user}}
+      {{!
+        user.id and user.name are available
+        now because Promiseable is an ObjectProxy,
+        and the PromiseProxyMixin set the
+        'content' property to the promise's resolved value.
+      }}
+      
+      
+    {{/if}}
+
+</div>

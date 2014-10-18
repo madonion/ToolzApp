@@ -1,0 +1,32 @@
+<h1>Login </h1>
+{{#if session.isWorking}}
+  In curs de autentificare…
+{{else}}
+ <br/><br/>
+
+<div id="xtra-cart" class="col-md-12">
+
+			formularul de mai jos are probleme. foloseste-l pe cel de sub buton...<br/>
+			
+        
+            <input type="text" class="login-form" id="lemail" placeholder="Email" required="required">
+            <input type="password" class="login-form" id="lpassword" placeholder="Parola" required="required" >
+            
+            <button class="btn navbar-btn" type="subsmit">Intră în cont</button>
+        
+            {{#link-to 'recuperareParola'}} Am uitat parola{{/link-to}}
+            <br/>
+            Sau intră în cont cu:<br/>
+            <a class="webicon facebook large" {{action "signInWithFacebook"}}>Facebook</a>
+            <a class="webicon linkedin large" {{action "signInWithLinkedIn"}}>LinkedIn</a>
+            <a class="webicon twitter large"  {{action "signInWithTwitter"}}>Twitter</a>
+            <a class="webicon googleplus large" {{action "signInWithGoogle"}}>GooglePlus</a>
+            <br/>
+            Nu ai cont? Crează unul {{#link-to 'contNou'}}aici{{/link-to}}
+
+    </div>
+  </div><!--xtra-->
+
+
+{{/if}}
+

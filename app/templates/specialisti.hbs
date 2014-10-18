@@ -1,0 +1,78 @@
+
+
+<!-- TAB TEMPLATE -->
+		<svg height="0" width="0" style="position: absolute; margin-left: -100%;">	  
+		   <path id="tab-shape" class="tab-shape" d="M122 40c-24,-8 -20,-40 -47,-40l-62 0c-7,0 -12,5 -12,12l0 28 122 0 0 0z"/>
+
+		</svg>
+      <div id="proffesions" class="col-md-9 pzero">
+		  <nav role="navigation" class="prof-nav">
+			  <ul>
+			{{#link-to 'catalog' 'instalatori-c-2017123010' tagName="li" class="tab-1"}}
+				<a {{bind-attr href="view.href"}}>
+					<span>Instalatori</span>
+					<svg viewBox="0 0 122 40">
+					  	<use xlink:href="#tab-shape"></use>
+					</svg>
+				</a>
+			{{/link-to}}
+			{{#link-to 'catalog' 'constructori-c-2017123011' tagName="li" class="tab-2"}}
+				<a {{bind-attr href="view.href"}}>
+					<span>Constructori</span>
+					<svg viewBox="0 0 122 40">
+					  	<use xlink:href="#tab-shape"></use>
+					</svg>
+				</a>
+			{{/link-to}}
+			{{#link-to 'catalog' 'electricieni-c-2017123012' tagName="li" class="tab-3"}}
+				<a {{bind-attr href="view.href"}}>
+					<span>Eelctricieni</span>
+					<svg viewBox="0 0 122 40">
+					  	<use xlink:href="#tab-shape"></use>
+					</svg>
+				</a>
+			{{/link-to}}
+            {{#link-to 'catalog' 'mecanici-c-2017123013' tagName="li" class="tab-4"}}
+				<a {{bind-attr href="view.href"}}>
+					<span>Mecanici</span>
+					<svg viewBox="0 0 122 40">
+					  	<use xlink:href="#tab-shape"></use>
+					</svg>
+				</a>
+			{{/link-to}}
+            {{#link-to 'catalog' 'electronisti-c-2017123014' tagName="li" class="tab-5"}}
+				<a {{bind-attr href="view.href"}}>
+					<span>Electronisti</span>
+					<svg viewBox="0 0 122 40">
+					  	<use xlink:href="#tab-shape"></use>
+					</svg>
+				</a>
+			{{/link-to}}
+            {{#link-to 'catalog' 'tamplari-c-2017123015' tagName="li" class="tab-6"}}
+				<a {{bind-attr href="view.href"}}>
+					<span>Tamplari</span>
+					<svg viewBox="0 0 122 40">
+					  	<use xlink:href="#tab-shape"></use>
+					</svg>
+				</a>
+			{{/link-to}}
+			{{#link-to 'agricultori' tagName="li" class="tab-7"}}
+				<a {{bind-attr href="view.href"}}>
+					<span>Agricultori</span>
+					<svg viewBox="0 0 122 40">
+					  	<use xlink:href="#tab-shape"></use>
+					</svg>
+				</a>
+			{{/link-to}}
+			{{#link-to 'sudori' tagName="li" class="tab-8"}}
+				<a {{bind-attr href="view.href"}}>
+					<span>Sudori</span>
+					<svg viewBox="0 0 122 40">
+					  	<use xlink:href="#tab-shape"></use>
+					</svg>
+				</a>
+			{{/link-to}}
+			  </ul>
+            
+		  </nav>  
+        </div>

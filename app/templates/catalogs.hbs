@@ -1,0 +1,16 @@
+<h1></h1>
+<div class="row">
+	<ul class="thumbnails">
+        {{#each model.links}}
+           <li class="col-md-4">
+            <div class="thumbnail">
+              <img {{bind-attr src="img"}} alt="ALT NAME">
+              <div class="caption">
+                <p>{{title}}</p>
+                <p align="center">{{#link-to "catalog" link class="btn btn-primary btn-block"}}Mai mult{{/link-to}}
+              </div>
+            </div>
+          </li>
+        {{/each}}
+    </ul>
+</div>

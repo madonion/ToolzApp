@@ -1,0 +1,103 @@
+
+<section id="main" class="row">
+{{#with model.article}}
+  <header>
+    <ol class="breadcrumb">
+    	{{#each bc}}
+    		{{#if this.bcname}}
+    			{{#link-to 'catalog' this.bclink}}{{this.bcname}}{{/link-to}}>
+    		{{/if}}
+	  	{{/each}}
+    </ol>
+  </header>
+  <article>
+   <div class="row title">		
+	   <div class="col-md-9">
+	   <h1>{{name}}</h1>
+	   </div>
+	   <div class="col-md-3">
+	   <img {{bind-attr src="mImg" alt="mName" title="mName"}}>
+	   </div>
+	</div>
+	  <div class="under-title">
+	  		{{#each simb}}
+		  <img {{bind-attr src="this.link" alt="this.alt" title="this.alt" }}>&nbsp;
+	  		{{/each}}
+                    
+	  </div>                       
+                    
+
+	<div class="row">
+		<div class="col-md-6">	
+			<div class="col-md-8">
+				<h2>Numar articol: <span class="red">{{code}}</span></h2>
+			</div>
+			<div class="col-md-4 stars">
+				{{#if rNota}}
+					
+				<i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star"></i>
+				<i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star"></i>
+				<i class="fa fa-star"></i>
+				{{else}}
+					<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+				{{/if}}
+			</div>
+			<div class="col-md-12">
+				<h2>Descriere produs:</h2>
+				{{escapeHtml desc}}
+			</div>
+		</div>	
+		-<div class="simpleLens-gallery-container col-md-5" id="main-pic">
+			<div class="simpleLens-container">
+				<div class="simpleLens-big-image-container">
+					<a class="simpleLens-lens-image" {{bind-attr data-lens-image="controller.imgArr.l1"}}>
+						<img {{bind-attr src="controller.imgArr.m1"}}   alt="..." class="simpleLens-big-image">
+					</a>
+				</div>
+			</div>
+
+			<div class="simpleLens-thumbnails-container">
+				{{#if img1}}
+				<a href="#" class="simpleLens-thumbnail-wrapper"
+				  {{bind-attr data-lens-image="controller.imgArr.l1"}}
+				  {{bind-attr data-big-image="controller.imgArr.m1"}}>
+					<img {{bind-attr src="controller.imgArr.t1"}} alt="...">
+				</a>
+				{{/if}}
+				{{#if img2}}
+				<a href="#" class="simpleLens-thumbnail-wrapper"
+				  {{bind-attr data-lens-image="controller.imgArr.l2"}}
+				  {{bind-attr data-big-image="controller.imgArr.m2"}}>
+					<img {{bind-attr src="controller.imgArr.t2"}} alt="...">
+				</a>
+				{{/if}}
+				{{#if img3}}
+				<a href="#" class="simpleLens-thumbnail-wrapper"
+				  {{bind-attr data-lens-image="controller.imgArr.l3"}}
+				  {{bind-attr data-big-image="controller.imgArr.m3"}}>
+					<img {{bind-attr src="controller.imgArr.t3"}} alt="...">
+				</a>
+				{{/if}}
+				{{#if img4}}
+				<a href="#" class="simpleLens-thumbnail-wrapper"
+				  {{bind-attr data-lens-image="controller.imgArr.l4"}}
+				  {{bind-attr data-big-image="controller.imgArr.m4"}}>
+				<img {{bind-attr src="controller.imgArr.t4"}} alt="...">
+				</a>
+				{{/if}}
+			</div>
+		</div>
+	</div>
+{{/with}}
+				
+  </article>
+  <footer>
+  </footer>
+</section>
+
+<section id="tabs-zone" class="tabs-sec row">
+  {{bs-tabs id="productTabs" contentBinding="tabsMeta" selectedBinding="selectie" default="Dimensiuni"}}
+  <!-- Tab panes -->
+  {{bs-tabs-panes items-id="productTabs" contentBinding="tabsMeta"}}
+
+</section>

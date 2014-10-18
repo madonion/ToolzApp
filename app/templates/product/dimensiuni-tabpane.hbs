@@ -1,0 +1,41 @@
+  {{#with model.article}}
+  <table class="optionTable">
+	<tbody>
+		<tr>
+			<th class="optTh">Cod</th>
+			<th class="optTh">{{escapeHtml options.[0].text}}{{options.[0].um}}</th>
+			<th class="optTh">{{escapeHtml options.[0].car_teh_1}}</th>
+			<th class="optTh">{{escapeHtml options.[0].car_teh_2}}</th>
+			<th class="optTh">Cantitate</th>
+			<th class="optTh">Pret cu TVA</th>
+			<th class="optTh">Pret cu TVA<br> &gt; 1 buc/1buc</th>
+			<th class="optTh">Pret cu TVA<br> &gt; 1 buc/1buc</th>
+			<th class="optTh">&nbsp;</th>
+		</tr>
+		{{#each options}}
+			{{#if this.id}}
+				<tr>
+					<td class="mainProduct">{{this.cod_unic}}</td>
+					<td class="mainProduct">{{this.text}}</td>
+					<td class="mainProduct">{{this.car_teh_1}}</td>
+					<td class="mainProduct">{{this.car_teh_2}}</td>
+					<td>
+						<input class="input" type="text" size="1" value="1">
+					</td>
+					<td class="mainPrice">
+						{{#if this.price_special}}
+							<span class="new-price">{{this.price}}</span>
+						{{else}}
+							<span class="old_price">{{this.price}}</span>
+							<span class="new-price">{{this.price_special}}</span>
+						{{/if}}
+					</td>
+					<td class="mainPrice"><span>-</span></td>
+					<td class="mainPrice"><span>-</span></td>
+					<td class="mainPrice"><a href="#" class="btn btn-danger btn-sm"><span class="glyphicon glyphicon-shopping-cart"></span> Adauga in cos</a></td>
+				</tr>
+			{{/if}}
+		{{/each}}
+	</tbody>
+  </table>
+  {{/with}}

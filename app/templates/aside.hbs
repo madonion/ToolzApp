@@ -1,0 +1,39 @@
+     <aside id="left-side" class="col-sm-6_ col-md-3">
+          <div id="sec-menu" class="" >
+              <nav class="sec-nav " role="navigation">
+              <span class="categHeader">{{#link-to 'catalog' 'catalog-c-1'}}Categorii produse:{{/link-to}}</span>
+              <ul class="nav nav-list sidenav">
+                {{#each catalog in model.links}}
+                    <li>{{#link-to 'catalog' catalog.link}}{{catalog.title}}{{/link-to}}</li>
+                {{/each}}
+              </ul>
+            </nav>
+          </div>
+        
+        <article class="infobox">
+              <h4>Te sunam noi</h4>
+              <p class="description">Lasa-ne un mesaj si vei fi contactat in intervalul orar specificat de tine.</p>
+              <button type="button" class="btn btn-primary btn-sm">
+                        <span class="glyphicon glyphicon-pencil"></span> Completeaza formularul
+                  </button>
+        </article>
+        <!--<article class="info box">
+              <h4>Fidelizare client</h4>
+              <p class="description">Pentru a demonstra inca odata sprijinul pe care Toolszone.ro doreste sa-l aduca clientilor sai, pe langa produse de mare calitate si servicii ireprosabile, campania de fidelizare clienti incearca sa stabileasca preturile cele mai accesibile din domeniu.</p>
+              <span class="cta"><a href="">Vezi mai multe detalii</a></span>
+        </article>-->
+        <article class="promo box">
+              <h4><span class="glyphicon glyphicon-play-circle"></span>  Conecteaza-te cu noi!</h4>
+              <p class="social_icons">
+                    <a class="webicon facebook large" href="https://www.facebook.com/toolszone" target="_blank">Facebook</a>
+                    <a class="webicon youtube large" href="http://www.youtube.com/user/ToolsZone" target="_blank">YouTube</a>
+                    <a class="webicon linkedin large" href="http://www.linkedin.com/pub/toolszone-ro-online-shop/1a/690/11b" target="_blank">LinkedIn</a>
+                    <a class="webicon twitter large" href="https://twitter.com/ToolsZone/" target="_blank">Twitter</a>
+                    <a class="webicon googleplus large" href="https://plus.google.com/+ToolsZonero" target="_blank">GooglePlus</a>
+                  </p>
+        </article>
+        <article class="promo box">
+              <h4><span class="glyphicon glyphicon-play-circle"></span>  Suntem pe facebook</h4>             <div class="fb-like-box" data-href="https://www.facebook.com/toolszone" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+          </article>
+          
+      </aside>

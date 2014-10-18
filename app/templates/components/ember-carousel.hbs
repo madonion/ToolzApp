@@ -1,0 +1,27 @@
+{{#if noImages}}
+		{{!add message here to show incase the carousel is empty.}}
+{{else}}
+	<div {{bind-attr id=carouselId}} class="carousel slide ember-carousel" data-wrap=true>
+	{{#if showSingle}}
+		<!--<a {{!bind-attr href=carouselLinksWithImages.firstObject.link}}><img {{!bind-attr src=carouselLinksWithImages.firstObject.image}}></a>-->
+	{{else}}
+		{{#if showIndicators}}
+			{{view "carouselIndicatorsView" contentBinding='indicators' carouselIdBinding='carouselId' }}
+		{{/if}}
+	{{/if}}
+
+	{{#if useImagesAsLinks}}
+		{{view "carouselInnerView" contentBinding='carouselLinksWithImages'}}
+	{{else}}
+		{{view "carouselInnerView" contentBinding='carouselImages'}}
+	{{/if}}
+
+	{{#if showSingle}}
+		{{else}}
+		{{#if showCarouselNavs}}
+		<a class="left carousel-control" {{bind-attr href=target}} data-slide="prev"><span>‹</span></a>
+		<a class="right carousel-control"{{bind-attr href=target}} data-slide="next"><span>›</span></a>
+		{{/if}}
+		{{/if}}
+	</div>
+{{/if}}

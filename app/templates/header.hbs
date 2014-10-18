@@ -1,0 +1,56 @@
+<header>
+			<div id="first-row" class="row">
+				<div id="logo" class="col-md-3">
+					{{#link-to 'index'}}
+						<img src="/assets/imgs/Logo.svg" alt="ToolsZone.ro - Magazin online de scule profesionale" title=" ToolsZone.ro - Magazin online de scule profesionale "  >
+					{{/link-to}}
+				</div>
+                <div id="banner-produse" class="col-md-6">
+                
+                <div class="phone col-lg-5 col-md-6 col-sm-6 col-xs-6">
+                        <span class="glyphicon glyphicon-earphone"></span>
+                        <span class="numar">+4 0368 004 674</span>    
+                        <span class="retea">(romtelecom)</span>
+                        
+                </div>
+                <div class="phone col-lg-5 col-md-6 col-sm-6 col-xs-6">
+                        <span class="glyphicon glyphicon-earphone"></span>
+                        <span class="numar">+4 0748 106 900</span>    
+                        <span class="retea">(orange)</span>
+                        
+                </div>
+                <div class="phone col-lg-5 col-md-6 col-sm-6 col-xs-6">
+                        <span class="glyphicon glyphicon-earphone"></span>
+                        <span class="numar">+4 0727 387 799</span>    
+                        <span class="retea">(vodafone)</span>
+                        
+                </div>
+                <div class="phone col-lg-5 col-md-6 col-sm-6 col-xs-6">
+                        <span class="glyphicon glyphicon-earphone"></span> 
+                        <span class="numar">+4 0368 004 674</span> 
+                        <span class="retea">(fax)</span>
+                        
+                </div>
+                        
+                <div class="input-group col-md-12">
+                  <input type="text" class="form-control" placeholder="Caută în peste 110 mii de produse..">
+                  <div class="input-group-btn">
+                    <button type="button" class="btn btn-danger" tabindex="-1">Toate produsele</button>
+                    <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" tabindex="-1">
+                      <span class="caret"></span>
+                      <span class="sr-only">Toggle Dropdown</span>
+                    </button>
+                    <ul class="dropdown-menu pull-right" role="menu">
+                      <li><a href="#">Toate produsele</a></li>
+                      <li><a href="#">Cautare avansata</a></li>
+                    </ul>
+                  </div>
+                </div>
+                </div>
+          {{cart-client sWGoogle="sWGoogle" sWFacebook="sWFacebook" sWToolz="sWToolz" session=session currentUser=currentUser user=user email=email password=password}}
+			</div><!--row-->
+      <div id="second-row" class="row">
+          {{partial "mainmenu"}}
+      </div><!-- 2nd row-->
+		</header>
+

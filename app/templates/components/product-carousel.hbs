@@ -1,0 +1,27 @@
+<div class="row">
+		<div class="row">
+			<div class="col-md-9">
+				<h3>{{yield}}</h3>
+			</div>
+			<div class="col-md-3">
+				<!-- Controls -->
+				<div class="controls pull-right hidden-xs">
+					<a class="left fa fa-chevron-left btn btn-primary" {{bind-attr href="cId"}}
+						data-slide="prev"></a>
+					<a class="right fa fa-chevron-right btn btn-primary" {{bind-attr href="cId"}}
+							data-slide="next"></a>
+				</div>
+			</div>
+		</div>
+		<div {{bind-attr id="carouselId"}} class="carousel slide hidden-xs" data-ride="carousel">
+			<!-- Wrapper for slides -->
+			<div class="carousel-inner">
+				<div class="item active">
+					{{view "productsRowView" content=data.[0].row}}
+				</div>
+				<div class="item">
+					{{view "productsRowView" content=data.[1].row}}
+				</div>
+			</div>
+		</div>
+	</div>

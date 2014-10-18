@@ -1,0 +1,42 @@
+<nav id="main-nav" class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-left">
+        {{#link-to 'index' tagName="li"}}<a {{bind-attr href="view.href"}}>Acasa</a>{{/link-to}}
+        {{#link-to 'despre-noi' tagName="li"}}<a {{bind-attr href="view.href"}}>Despre</a>{{/link-to}}
+        {{#link-to 'cum-comand' tagName="li"}}<a {{bind-attr href="view.href"}}>Cum comand</a>{{/link-to}}
+        {{#link-to 'contact' tagName="li"}}<a {{bind-attr href="view.href"}}>Contact</a>{{/link-to}}
+        {{#link-to 'forum' tagName="li"}}<a {{bind-attr href="view.href"}}>Forum</a>{{/link-to}}
+        <li class="dropdown">
+          {{#link-to 'contulMeu' class="dropdown-toggle" data-toggle="dropdown"}}Contul meu <b class="caret"></b>{{/link-to}}
+          <ul class="dropdown-menu">
+            {{#link-to 'favorite' tagName="li"}}<a {{bind-attr href="view.href"}}>Lista favorite</a>{{/link-to}}
+            {{#link-to 'comenzile-mele' tagName="li"}}<a {{bind-attr href="view.href"}}>Comenzile mele</a>{{/link-to}}
+            {{#link-to 'agenda' tagName="li"}}<a {{bind-attr href="view.href"}}>Agenda</a>{{/link-to}}
+            <li class="divider"></li>
+            <li><a href="#">Logout</a></li>
+          </ul>
+        </li>
+          {{#link-to 'comanda-rapida' tagName="li"}}<a {{bind-attr href="view.href"}}>Comanda rapida</a>{{/link-to}}
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+          {{#link-to 'promotii' tagName="li"}}<a {{bind-attr href="view.href"}}>Oferte speciale</a>{{/link-to}}
+          {{#link-to 'produse-noi' tagName="li"}}<a {{bind-attr href="view.href"}}>Produse noi</a>{{/link-to}}
+          {{#link-to 'solduri' tagName="li"}}<a {{bind-attr href="view.href"}}>Solduri</a>{{/link-to}}
+      </ul>
+    </div><!-- /.navbar-collapse -->
+    
+  </div><!-- /.container-fluid -->
+</nav>

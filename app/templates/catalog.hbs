@@ -1,0 +1,59 @@
+<h1>{{model.cname}}</h1>
+<ol class="breadcrumb">
+    {{#each model.bc}}
+        {{#link-to 'catalog' this.bclink}}{{this.bcname}}{{/link-to}}>
+    {{/each}}
+</ol>
+<div class="row">
+  <div class="col-md-9 noMargin">
+      <ul class="thumbnails">
+      {{#if model.isType2}}
+           {{#each model.links}}
+             <li class="half">
+              <div class="thumb">
+                <img {{bind-attr src="img" alt="title"}}>
+                <div class="caption ">
+                  <p class="title">{{#link-to "catalog" link class="mai_mult"}}{{title}}{{/link-to}}</p>
+                  <p>{{#link-to "catalog" link class="mai_mult"}}<img src="images/icons/arrow.gif">Mai mult{{/link-to}}</p>
+                </div>
+              </div>
+            </li>
+           {{/each}}
+        {{else}}
+          <table id="cList">
+            <tbody>
+              <tr>
+                <th></th>
+                <th class="cod"><a href="#" title="Sortati produsele dupa Cod" class="infoBoxTitle">Cod</a></th>
+                <th class="produs"><a href="#" title="Sortati produsele dupa Produs" class="infoBoxTitle">Produs</a></th>
+                <th class="cantitate">Cantitate</th>
+                <th class="pret"><a href="#" title="Sortati produsele dupa Pret cu TVA">Pret cu TVA</a></th>
+              </tr>
+              {{#each model.links}}
+                 <td><img width="50px;" {{bind-attr src="img" alt="title"}}></td>
+                 <td>{{cod}}</td>
+                 <td>{{#link-to "product" link class="mai_mult"}}{{title}}{{/link-to}}</td>
+                 {{#if price}}
+                    <td align="center" valign="middle"><input style="width:30px" id="cant_792" class="input" type="text" size="1" value="1"></td>
+                 <td><span class="pret">Pret: {{price}}</span>
+                     <p >{{#link-to "product" link class="mai_mult"}}<img src="images/icons/arrow.gif">Adauga in cos{{/link-to}}</p>
+                 </td>
+                 {{else}}
+                     <td></td>
+                 <td>
+                     <p >{{#link-to "product" link class="mai_mult"}}<img src="images/icons/arrow.gif">Mai mult{{/link-to}}</p>
+                 </td>
+                 </td>
+                 {{/if}}
+                      
+                </tr>
+               {{/each}}
+            </tbody>
+          </table>
+        {{/if}}
+      </ul>
+  </div>
+  <div class="col-md-3">
+    sidebar
+  </div>
+</div>
