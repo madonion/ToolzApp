@@ -47,7 +47,8 @@
                   </div>
                 </div>
                 </div>
-          {{cart-client sWGoogle="sWGoogle" sWFacebook="sWFacebook" sWToolz="sWToolz" session=session currentUser=currentUser user=user email=email password=password}}
+
+          {{cart-client sWGoogle="sWGoogle" sWFacebook="sWFacebook" sWToolz="sWToolz" session=session user=user counter=controllers.cart.itemsCounter total=controllers.cart.totalCounter email=email password=password goTo="goTo"}}
 			</div><!--row-->
       <div id="second-row" class="row">
           {{partial "mainmenu"}}

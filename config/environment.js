@@ -26,16 +26,12 @@ module.exports = function(environment) {
         },
         facebook: {
           clientId: "706499519421370",
-          redirectUri: 'http://localhost:4200/'
+          redirectUri: 'http://toolszone.info/',
+          scope:"email"
         },
         google: {
           clientId: "1002482822828-uchurr4rchc38hdh9scqv36c60hq30gb.apps.googleusercontent.com",
-          redirectUri: 'http://localhost:4200/',
-          scope:"email"
-        },
-        local: {
-          clientId: "1002482822828-uchurr4rchc38hdh9scqv36c60hq30gb.apps.googleusercontent.com",
-          redirectUri: 'http://localhost:4200/',
+          redirectUri: 'http://toolszone.info/',
           scope:"email"
         }
       },

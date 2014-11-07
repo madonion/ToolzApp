@@ -6,14 +6,21 @@ var Promise = Ember.RSVP.Promise;
 export default Ember.Object.extend({
   // Sends auth data to our API to be exchanged for an access token.
   open: function(authData) {
-    console.log(authData);
+    //console.log(authData);
     return ajax({
       url: '/api/v1.php/authorise',
       type: 'POST',
       data: authData
     }).then(function(data) {
+      if ((typeof data) === 'string'){
+        var response = JSON.parse(data);
+        // Grab the access token from response data.
+        var accessToken = response.access_token;
+      }else{
       // Grab the access token from response data.
-      var accessToken = data.access_token;
+      var accessToken = data.access_token;        
+      }
+      //debugger;
       // Store the access token in local storage.
       localStorage.accessToken = accessToken;
       // Resolve with the access token.

@@ -18,6 +18,15 @@ export default Ember.Component.extend({
 		},
 		signInWithToolz: function(){
 			this.sendAction('sWToolz');
-		}
+		},
+		contulMeu: function(){
+			this.sendAction('goTo','contulMeu');
+		},
+		cosulMeu: function(){
+			this.sendAction('goTo','cart');
+		},
+		login: function(){
+			this.sendAction('goTo','login');
+		},
 	}
 });

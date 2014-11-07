@@ -38,7 +38,6 @@ Router.map(function() {
   this.route('protectia-consumatorilor');
   this.route('catalogs');
   this.resource('catalog', {path:'/c/:catalog_id'});
-  
   this.resource('product', {path:'/p/:product_id'});
   this.route('login');
   this.route('application');
@@ -46,10 +45,11 @@ Router.map(function() {
   this.route('test1');
   this.route('protected');
   this.route('contulMeu');
-  this.route('cosulMeu');
   this.route('passwordRecovery');
   this.route('recuperareParola');
   this.route('contNou');
+  this.route('userData');
+  this.route('cart',{path:'/cosul-meu'});
 });
 
 
