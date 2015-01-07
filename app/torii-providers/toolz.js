@@ -26,18 +26,3 @@ export default Ember.Object.extend({
   }
 });
 
-// Concats baseUrl and querystring-ified params.
-function buildUrl(baseUrl, params) {
-  return baseUrl + buildQueryString(params);
-}
-
-// Takes a hash of params and creates a querystring with underscored_keys.
-function buildQueryString(object) {
-  var result = {};
-
-  Ember.keys(object).forEach(function(key) {
-    result[key.underscore()] = object[key];
-  }, this);
-
-  return '?' + Ember.$.param(result);
-}
