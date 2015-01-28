@@ -50,6 +50,7 @@ Router.map(function() {
   this.route('contNou');
   this.route('userData');
   this.route('cart',{path:'/cosul-meu'});
+  this.route('recuperare-parola');
 });
 
 

@@ -5,7 +5,7 @@ export default Ember.Controller.extend({
     var accessToken = localStorage.accessToken;
     // Set some default properties here.
     var promise = $.ajax({
-          url: '/api/v1.php/me',
+          url: '/resources/v1.php/me',
           type: 'POST',
           data: { accessToken: accessToken }
       }).then(function(json) {

@@ -35,23 +35,6 @@
         </button>
       </div>
     </div>
-    <div id="xtra-cart" class="col-md-12">
-        <form {{action "signInWithToolz" on="submit"}}>
-            {{input type="text" class="login-form" id="email" value=email placeholder="Email" required="required"}}
-            {{input type="password" class="login-form" id="password" value=password placeholder="Parola" required="required" }}
-            
-            <button class="btn navbar-btn" type="submit">Intră în cont</button>
-        </form>
-            {{#link-to 'recuperareParola'}} Am uitat parola{{/link-to}}
-            <br/>
-            Sau intră în cont cu:<br/>
-            <a class="webicon facebook large" {{action "signInWithFacebook"}}>Facebook</a>
-            <a class="webicon linkedin large" {{action "signInWithLinkedIn"}}>LinkedIn</a>
-            <a class="webicon twitter large"  {{action "signInWithTwitter"}}>Twitter</a>
-            <a class="webicon googleplus large" {{action "signInWithGoogle"}}>GooglePlus</a>
-            <br/>
-            Nu ai cont? Crează unul {{#link-to 'contNou'}}aici{{/link-to}}
-    </div>
   </div><!--buttons-->
 {{/if}}
 </div>

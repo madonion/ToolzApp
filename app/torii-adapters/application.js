@@ -8,7 +8,7 @@ export default Ember.Object.extend({
   open: function(authData) {
     //console.log(authData);
     return ajax({
-      url: '/api/v1.php/authorise',
+      url: 'resources/v1.php/authorise',
       type: 'POST',
       data: authData
     }).then(function(data) {
