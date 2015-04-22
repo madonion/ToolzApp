@@ -1,0 +1,91 @@
+<h1>Cont Nou </h1>
+{{#if session.isAuthenticated}} 
+
+{{else}}
+
+	<div class="col-md-offset-1 omb_login col-md-10">
+		<div class="wrapper">
+			<div class="col-sm-6">
+				
+				<div class="">
+					<div class=" omb_row-sm-offset-3 omb_socialButtons">
+					    <div class="">
+					        <a href="#" class="btn btn-lg btn-block omb_btn-facebook">
+						        <i class="fa fa-facebook visible-xs"></i>
+						        <span class="hidden-xs">Înregistrare cu Facebook</span>
+					        </a>
+				        </div>
+				        <br>	
+				    	<div class="">
+					        <a href="#" class="btn btn-lg btn-block omb_btn-google">
+						        <i class="fa fa-google-plus visible-xs"></i>
+						        <span class="hidden-xs">Înregistrare cu  Google+</span>
+					        </a>
+				        </div>	
+					</div>
+
+					<div class="row omb_row-sm-offset-3 omb_loginOr">
+						<div class="col-xs-12">
+							
+							<span class="">Sau completează:</span>
+						</div>
+					</div>
+
+					<div class="row omb_row-sm-offset-3">
+						<div class="col-xs-12">	
+						    <form class="omb_loginForm" action="" autocomplete="off" method="POST">
+						    	<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-user"></i></span>
+									<input type="text" class="form-control" name="nume" placeholder="Nume">
+								</div>
+								<span class="help-block"></span>
+						    	<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-user"></i></span>
+									<input type="text" class="form-control" name="prenume" placeholder="Prenume">
+								</div>
+								<span class="help-block"></span>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+									<input type="text" class="form-control" name="username" placeholder="adresa de email">
+								</div>
+								<span class="help-block"></span>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-phone"></i></span>
+									<input type="text" class="form-control" name="telefon" placeholder="Telefon">
+								</div>
+								<span class="help-block"></span>											
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-lock"></i></span>
+									<input  type="password" class="form-control" name="password" placeholder="Parola">
+								</div>
+				                <br>
+
+								<button class="btn btn-lg btn-primary btn-block" type="submit">Creaza cont nou</button>
+							</form>
+						</div>
+					</div>
+						
+							<label class="checkbox">
+								<input type="checkbox" value="remember-me">Inscrie-ma la newsletter
+							</label>							
+							<label class="checkbox">
+								<input type="checkbox" value="remember-me">Ține-mă minte
+							</label>
+						
+				</div>
+			</div>
+
+		</div>
+		<div class="col-sm-6 text-center ">
+			    <img class="account-image" alt="" src="//lh5.googleusercontent.com/-b0-k99FZlyE/AAAAAAAAAAI/AAAAAAAAAAA/eu7opA4byxI/photo.jpg?sz=100"/>
+	            <hr/>
+	            <p>Creand un cont nou la ToolsZone.ro - Magazin online de scule profesionale o sa poti comanda mai usor, sa fi la curent cu statusul comenzii tale si sa administrezi comenziile facute.</p>
+	            <hr>
+				<h2>Ai deja cont?</h2>
+	            <br>
+	            <button class="btn btn-success btn-lg" {{action 'login'}}><i class="glyphicon glyphicon-ok"></i>  Loghează-te</button>
+		</div>
+	</div>
+
+
+{{/if}}

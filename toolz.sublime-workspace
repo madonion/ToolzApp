@@ -1,0 +1,1129 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"btn",
+				"btn-add"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"b",
+				"border-right"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"pro",
+				"produs"
+			],
+			[
+				"s",
+				"stiri"
+			],
+			[
+				"Rece",
+				"Recenzii"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cu",
+				"currentPath"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"cartItem",
+				"cartItems"
+			],
+			[
+				"th",
+				"then"
+			],
+			[
+				"c",
+				"controller"
+			],
+			[
+				"ca",
+				"cartItem"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"cartIte",
+				"cartItem"
+			],
+			[
+				"cart",
+				"cartItems"
+			],
+			[
+				"pu",
+				"pushData"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"TR",
+				"transitionTo"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"aut",
+				"authData"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"E",
+				"Ember"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"use",
+				"userData"
+			],
+			[
+				"fa",
+				"failureReason"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"fu",
+				"fulfill"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"t",
+				"then"
+			],
+			[
+				"se",
+				"set"
+			],
+			[
+				"ac",
+				"accessToken"
+			],
+			[
+				"em",
+				"Ember"
+			],
+			[
+				"au",
+				"authData"
+			],
+			[
+				"initi",
+				"initializeTorii"
+			],
+			[
+				"e",
+				"Ember"
+			],
+			[
+				"S",
+				"SessionWithCurrentUser"
+			],
+			[
+				"u",
+				"userData"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"Se",
+				"SearchString"
+			],
+			[
+				"ge",
+				"GetUrlValue"
+			],
+			[
+				"set",
+				"setRequestHeader"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"cata",
+				"catalog"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"catalog",
+				"catalog_id"
+			],
+			[
+				"produs",
+				"produs_id"
+			],
+			[
+				"C",
+				"CumComandController"
+			],
+			[
+				"css",
+				"cssmin"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"as",
+				"aside	Tag"
+			],
+			[
+				"d",
+				"disabled	Attr"
+			],
+			[
+				"do",
+				"Dog"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"adder",
+				"address"
+			],
+			[
+				"getAt",
+				"getAttribute"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"xml",
+				"xmlDoc"
+			],
+			[
+				"sty",
+				"style	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"BO",
+				"BODY	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n@import url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');\n//@import 'app.css';\n//Google fonst\n@import url(http://fonts.googleapis.com/css?family=Oswald|Open+Sans:300);\n@media (min-width: 1200px) { .row { margin-left: -20px; *zoom: 1; } .row:before, .row:after { display: table; line-height: 0; content: \"\"; } .row:after { clear: both; } [class*=\"span\"] { float: left; min-height: 1px; margin-left: 20px; } .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container { width: 940px; } .span12 { width: 940px; } .span11 { width: 860px; } .span10 { width: 780px; } .span9 { width: 700px; } .span8 { width: 620px; } .span7 { width: 540px; } .span6 { width: 460px; } .span5 { width: 380px; } .span4 { width: 300px; } .span3 { width: 220px; } .span2 { width: 140px; } .span1 { width: 60px; } .offset12 { margin-left: 980px; } .offset11 { margin-left: 900px; } .offset10 { margin-left: 820px; } .offset9 { margin-left: 740px; } .offset8 { margin-left: 660px; } .offset7 { margin-left: 580px; } .offset6 { margin-left: 500px; } .offset5 { margin-left: 420px; } .offset4 { margin-left: 340px; } .offset3 { margin-left: 260px; } .offset2 { margin-left: 180px; } .offset1 { margin-left: 100px; } }\n\n//colors\n$white: #fff;\n$color_alizarin_crimson_approx: #da261e;\n$color_guardsman_red_approx: #c00;\n$black: #000;\n$color_woodsmoke_approx: #111;\n$color_tango_approx: #e7711b;\n$color_regal_blue_approx: rgb(9,63,109);\n$color_venice_blue_approx: rgba(17,87,147,1);\n$color_thunderbird_approx: #d91f17;\n$color_submarine_approx: #bac3ca;\n$color_endeavour_approx: #00529c;\n$color_tiara_approx: #c3ced6;\n$color_bright_turquoise_approx: #1bdfdd;\n$color_alto_approx: #ddd;\n$color_suva_gray_approx: rgb(134,136,137);\n$color_iron_approx: rgba(214,214,215,1);\n$color_log_cabin_approx: #222;\n$color_wild_sand_approx: rgb(245,244,243);\n$color_celeste_approx: rgb(210,206,203);\n$color_cornflower_approx: #9ec5eb;\n$color_chathams_blue_approx: rgb(14,71,118);\n$color_matisse_approx: rgb(30,88,146);\n$color_steel_blue_approx: rgb(67,118,182);\n$red: red;\n$color_storm_dust_approx: #666;\n$color_athens_gray_approx: #edf0f2;\n$color_corn_field_approx: #f5f5d0;\n$color_mexican_red_approx: rgba(177,31,25,1);\n$color_loblolly_approx: rgb(189,201,210);\n$color_mystic_approx: rgba(225,237,247,1);\n$color_eastern_blue_approx: #20a2b1;\n$color_periglacial_blue_approx: #e0e1db;\n$color_scarlet_approx: #e92d00;\n$color_silver_chalice_approx: #aaa;\n$color_congress_blue_approx: #024182;\n$black_50: rgba(0, 0, 0, 0.5);\n$black_25: rgba(0, 0, 0, .25);\n$color_blue_stone_approx: #0f5d66;\n$color_gallery_approx: #eee;\n$color_atoll_approx: rgb(10,114,126);\n$color_mountain_mist_approx: #999;\n$color_stack_approx: #8e8e8e;\n$crimson: crimson;\n$color_cararra_approx: #ececec;\n$color_boston_blue_approx: #428bca;\n$color_mercury_approx: #e6e6e6;\n$color_apple_approx: #4cae4c;\n$color_fern_approx: #5cb85c;\n$color_picton_blue_approx: #46b8da;\n$color_viking_approx: #5bc0de;\n$color_fuel_yellow_approx: #eea236;\n$color_casablanca_approx: #f0ad4e;\n$color_valencia_approx: #d43f3a;\n$color_chestnut_rose_approx: #d9534f;\n$concrete: #f2f2f2;\n$color_mine_shaft_approx: #333;\n$color_azure_approx: #3b5998;\n$color_cerulean_approx: #00aced;\n$color_gravel_approx: #484747;\n\n//fonts\n$font_0: Tahoma;\n$font_1: Verdana;\n$font_2: Arial;\n$font_3: sans-serif;\n$font_4: Oswald;\n$font_5: Helvetica;\n\n//urls\n$url_0: url(\"imgs/bullet.gif\");\n$url_1: url(\"imgs/webicons/webicon-facebook-m.png\");\n$url_2: url(\"imgs/webicons/webicon-facebook.png\");\n$url_3: url(\"imgs/webicons/webicon-facebook-s.png\");\n$url_4: url(\"imgs/webicons/webicon-facebook.svg\");\n$url_5: url(\"imgs/webicons/webicon-youtube-m.png\");\n$url_6: url(\"imgs/webicons/webicon-youtube.png\");\n$url_7: url(\"imgs/webicons/webicon-youtube-s.png\");\n$url_8: url(\"imgs/webicons/webicon-youtube.svg\");\n$url_9: url(\"imgs/webicons/webicon-linkedin-m.png\");\n$url_10: url(\"imgs/webicons/webicon-linkedin.png\");\n$url_11: url(\"imgs/webicons/webicon-linkedin-s.png\");\n$url_12: url(\"imgs/webicons/webicon-linkedin.svg\");\n$url_13: url(\"imgs/webicons/webicon-twitter-m.png\");\n$url_14: url(\"imgs/webicons/webicon-twitter.png\");\n$url_15: url(\"imgs/webicons/webicon-twitter-s.png\");\n$url_16: url(\"imgs/webicons/webicon-twitter.svg\");\n$url_17: url(\"imgs/webicons/webicon-googleplus-m.png\");\n$url_18: url(\"imgs/webicons/webicon-googleplus.png\");\n$url_19: url(\"imgs/webicons/webicon-googleplus-s.png\");\n$url_20: url(\"imgs/webicons/webicon-googleplus.svg\");\n\n//@extend-elements\n//original selectors\n//nav.navbar-default .navbar-nav>li>a:hover, nav.navbar-default .navbar-nav>li>a:active, nav.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:active, .navbar-default .navbar-nav>.active>a\n%extend_1 {\n	color: $white;\n	background: $color_alizarin_crimson_approx;\n	background: linear-gradient(to bottom, $color_alizarin_crimson_approx 0,$color_mexican_red_approx 100%);\n	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color_alizarin_crimson_approx', endColorstr='$color_mexican_red_approx',GradientType=0 );\n}\n\n//original selectors\n//.mainProduct, P.mainProduct\n%extend_2 {\n	font-family: $font_0, $font_1, $font_2, $font_3;\n	font-size: 12px;\n	font-weight: normal;\n	color: $color_endeavour_approx;\n	vertical-align: bottom;\n	padding-top: 20px;\n	text-align: center;\n	text-decoration: underline;\n}\n\n\n@media(min-width: 768px) {\n	.omb_row-sm-offset-3 div:first-child[class*=\"col-\"] {\n		margin-left: 0;\n	}\n}\n@media(min-width: 992px) {\n	#main-nav li>a {\n		font-size: 12px;\n		padding: 10px 10px;\n		line-height: 22px;\n	}\n}\n@media(min-width: 1200px) {\n	#main-nav li>a {\n		font-size: 12px;\n	}\n}\nbody{font-size: 12px;}\n\n.btn-danger {\n	color: $white;\n	background-color: $color_alizarin_crimson_approx;\n	border-color: $color_guardsman_red_approx;\n	//Instead of the line below you could use @includetext-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	text-shadow: 2px 2px 3px $black;\n}\na {\n	cursor: pointer;\n	&.list-group-item {\n		background: #F5F5D0;\n		color: #00529C;\n		&:hover {\n			color: $red;\n			background: #F5F5D0;\n		}\n	}\n}\nheader {\n	color: $white;\n	//Instead of the line below you could use @includetext-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	text-shadow: 2px 2px 2px $color_woodsmoke_approx;\n}\n.price-text-color {\n	color: #E7711B;\n	font-size: 1.5em;\n}\n.fa-star {\n	font-size: 1.5em;\n}\n.round-corners {\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 4px;\n}\n.no-padding {\n	padding: 0;\n}\n#first-row {\n	background: $color_regal_blue_approx;\n	background: linear-gradient(to bottom, $color_regal_blue_approx 0,$color_venice_blue_approx 100%);\n	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color_regal_blue_approx', endColorstr='$color_venice_blue_approx',GradientType=0 );\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 7px;\n	min-height:110px;\n}\n.phone {\n	position: relative;\n	height: 30px;\n	padding: 0.5em;\n	span.glyphicon {\n		font-size: 160%;\n		position: relative;\n		top: 0.3em;\n		color: $color_thunderbird_approx;\n		//Instead of the line below you could use @includetext-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n		text-shadow: 2px 2px $black;\n	}\n}\nspan {\n	&.retea {\n		font-size: 11px;\n		padding-left: 30px;\n		display: block;\n		position: relative;\n		top: -1em;\n	}\n	&.numar {\n		font-size: 15px;\n		position: relative;\n		top: -0.2em;\n	}\n}\nnav {\n	&.sec-nav {\n		ul {\n			list-style-image: $url_0;\n		}\n		li>a {\n			padding: 3px 10px;\n			color: #00529C;\n			font-weight: 700;\n			background: #C3CED6;\n		}\n	}\n	&.navbar {\n		background: $color_regal_blue_approx;\n	}\n	&.navbar_b_bg {\n		background: $color_loblolly_approx;\n		background: linear-gradient(to bottom, $color_loblolly_approx 0,$color_mystic_approx 100%);\n		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color_loblolly_approx', endColorstr='$color_mystic_approx',GradientType=0 );\n	}\n	&.navbar-default .navbar-nav>li>a {\n		color: $white;\n		font-weight: 700;\n		//Instead of the line below you could use @includetext-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n		text-shadow: 1px 1px $color_log_cabin_approx;\n		&:hover {\n			@extend %extend_1;\n		}\n		&:active {\n			@extend %extend_1;\n		}\n		&:focus {\n			@extend %extend_1;\n		}\n	}\n	&#main-nav .container-fluid {\n		padding-right: 0;\n	}\n}\n.transport {\n	ul {\n		margin: 0.5em 0;\n		padding: 0;\n		list-style-type: none;\n	}\n	li {\n		text-align: right;\n		font-size: 11px;\n	}\n	i {\n		font-size: 22px;\n		color: $color_bright_turquoise_approx;\n	}\n	.alternativ {\n		color: $color_bright_turquoise_approx;\n	}\n}\n.searchbox {\n	margin-top: 1em;\n	.btn{\n		font-size: 12px;\n		line-height: 1em;\n	}\n}\n#cartnclient {\n	.glyphicon {\n		color: $color_alizarin_crimson_approx;\n	}\n	button {\n		background: $color_suva_gray_approx;\n		background: linear-gradient(to bottom, $color_suva_gray_approx 0,$color_iron_approx 100%);\n		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color_suva_gray_approx', endColorstr='$color_iron_approx',GradientType=0 );\n		//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n		box-shadow: 3px 3px 3px $color_log_cabin_approx;\n		color: $black;\n		font-size:11px;\n		min-height: 45px;\n		&:hover {\n			background-image: linear-gradient($color_wild_sand_approx 0,$color_wild_sand_approx 35%,$color_celeste_approx 100%);\n		}\n	}\n	.badge {\n		background: $color_alizarin_crimson_approx;\n		font-size:10px;\n	}\n	#buttons {\n		position: relative;\n		.btn-group {\n			/* width: 90%;\n			margin-left: 8%; */\n		}\n	}\n}\n.box {\n	margin: 10px 0;\n	border: 1px solid $color_alto_approx;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 4px 4px 4px 4px;\n}\n.padd-top {\n	padding-top: 10px;\n}\n.promo {\n	border: 1px solid #9EC5EB;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 6px 6px 6px 6px;\n	overflow: hidden;\n	h4 {\n		font-size: 14px;\n		font-family: $font_0, $font_1, $font_2, $font_3;\n		display: block;\n		color: $white;\n		padding: 0.6em;\n		margin-top: 0;\n		background-image: linear-gradient($color_chathams_blue_approx 0, $color_matisse_approx 28%, $color_steel_blue_approx 100%);\n		span.glyphicon {\n			color: $red;\n			padding: 0 5px;\n		}\n	}\n	.thumbnail {\n		border: none;\n		width: 180px;\n		margin: 0 40px;\n	}\n	.description {\n		color: $color_storm_dust_approx;\n		font-weight: 700;\n		font-size: 12px;\n		padding: 0 6px;\n	}\n	span {\n		&.old-price {\n			text-decoration: line-through;\n			font-size: 12px;\n			color: $color_storm_dust_approx;\n		}\n		&.price {\n			color: $red;\n			font-weight: 700;\n			font-size: 15px;\n			display: block;\n			padding-bottom: 10px;\n		}\n	}\n	.prgroup {\n		text-align: right;\n	}\n	.col-md-7 {\n		padding: 9px 0 13px;\n	}\n}\n.infobox {\n	background: #EDF0F2;\n	margin: 10px 0;\n	border: 1px solid $color_celeste_approx;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 6px 6px 6px 6px;\n	padding: 10px;\n	text-align: center;\n	h4 {\n		font-weight: 700;\n		font-size: 14px;\n		color: #F00;\n		text-align: left;\n	}\n	p {\n		padding: 5px;\n		font-size: 12px;\n		color: $color_storm_dust_approx;\n		text-align: left;\n	}\n}\n#specialisti-nav {\n	margin-bottom: 0;\n	color: $color_regal_blue_approx;\n	min-height: 35px;\n	a {\n		color: $color_regal_blue_approx;\n		//Instead of the line below you could use @includetext-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n		text-shadow: none;\n		font-size: 12px;\n		border-left: 1px solid $white;\n	}\n	li>a:hover {\n		background: $color_alto_approx;\n	}\n	li.active>a {\n		background: $color_alto_approx;\n	}\n	.categorii a {\n		color: $color_storm_dust_approx;\n		//Instead of the line below you could use @includetext-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n		text-shadow: none;\n		font-size: 12px;\n		border: none;\n	}\n	.navbar-nav > li > a{\n		line-height: 10px;\n	}\n}\n.navbar_r_bg {\n	background: $color_alizarin_crimson_approx;\n	background: linear-gradient(to bottom, $color_alizarin_crimson_approx 0,$color_mexican_red_approx 100%);\n	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color_alizarin_crimson_approx', endColorstr='$color_mexican_red_approx',GradientType=0 );\n}\n.nav-top {\n	border-bottom: none;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 4px 4px 0 0;\n}\n.nav-bottom {\n	border-top: none;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 0 0 4px 4px;\n}\n#main-nav {\n	margin-bottom: 0;\n	text-transform: uppercase;\n	overflow: hidden;\n	min-height: 35px;\n	.navbar-right {\n		li>a {\n			background: $color_mexican_red_approx;\n			color: $white;\n			&:hover {\n				background: #7B1915;\n			}\n		}\n		li {\n			&.active>a {\n				background: #7B1915;\n			}\n			&:last-child a {\n				padding-right: 30px;\n				//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n				border-radius: 0 4px 4px;\n			}\n		}\n	}\n	.navbar-nav > {\n		.active > a {\n			color: $white;\n			background: $color_mexican_red_approx;\n		}\n		.open > a {\n			color: $white;\n			&:hover {\n				color: $white;\n			}\n			&:focus {\n				color: $white;\n			}\n		}\n	}\n	ul.dropdown-menu {\n		background: $color_regal_blue_approx;\n	}\n	.dropdown-menu > li > a {\n		color: $white;\n		&:hover {\n			color: $white;\n			background: $black;\n		}\n	}\n}\n#left-side {\n	padding-left: 0;\n}\n.nav-row {\n	text-align: center;\n	p {\n		padding: 0;\n		margin: 0;\n	}\n	.col-md-2 {\n		background-color: $white;\n		border: 1px solid $color_periglacial_blue_approx;\n		border-right: none;\n		&:last-child {\n			border: 1px solid $color_periglacial_blue_approx;\n			//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n			border-radius: 0 5px 5px 0;\n		}\n		&:first-child {\n			//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n			border-radius: 5px 0 0 5px;\n		}\n		&:hover {\n			color: $color_scarlet_approx;\n			cursor: pointer;\n		}\n	}\n	.active {\n		color: $color_scarlet_approx;\n		margin-top: -6px;\n		border-top: 6px solid $color_scarlet_approx;\n		border-bottom: 6px solid $color_scarlet_approx;\n		&:before {\n			content: '';\n			position: absolute;\n			border-style: solid;\n			border-width: 6px 6px 0;\n			border-color: $color_scarlet_approx transparent;\n			display: block;\n			width: 0;\n			z-index: 1;\n			margin-left: -6px;\n			top: 0;\n			left: 50%;\n		}\n	}\n	.glyphicon {\n		padding-top: 15px;\n		font-size: 40px;\n	}\n}\n.pzero {\n	padding: 0;\n	margin: 0;\n	h1 {\n		font-family: Tahoma, Arial, Verdana, sans-serif;\n		font-size: 16px;\n		font-weight: bold;\n		color: #666;\n		padding: 15px;\n		margin: 0;\n		padding: 5px;\n	}\n}\n.mainbox {\n	//border: 1px solid $color_alto_approx;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	//border-radius: 5px;\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	//box-shadow: 8px 8px 8px $color_silver_chalice_approx;\n	padding: 5px 5px 50px 5px;\n}\n.mainContent {\n	padding: 1em;\n	h2 {\n		font-size: 16px;\n		font-weight: bold;\n	}\n}\n.prof-nav {\n	height: 4.5rem;\n	overflow: hidden;\n	position: relative;\n	padding: 1rem 0 0 1rem;\n	ul {\n		list-style: none;\n		padding: 0;\n	}\n	li {\n		float: left;\n		width: 11rem;\n		height: 4.9rem;\n		margin: 0 0 0 -1rem;\n		position: relative;\n		&.active {\n			z-index: 16;\n			svg {\n				fill: $color_congress_blue_approx;\n			}\n		}\n	}\n	a {\n		position: relative;\n		display: inline-block;\n		color: $white;\n		width: 100%;\n		height: 100%;\n		font-family: $font_4, $font_3;\n		font-size: 1.4rem;\n		//Instead of the line below you could use @includetext-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n		text-shadow: 0 2px 2px $black_50;\n	}\n	svg {\n		width: 120%;\n		height: 100%;\n		position: absolute;\n		top: 0;\n		left: 0;\n		z-index: 1;\n		pointer-events: none;\n		fill: #DA241C;\n		stroke: $color_storm_dust_approx;\n		stroke-width: 1px;\n	}\n	span {\n		position: relative;\n		padding: 1rem 0 0 2rem;\n		z-index: 2;\n		display: inline-block;\n		width: 100%;\n		height: 100%;\n	}\n	.tab-1 {\n		z-index: 8;\n	}\n	.tab-2 {\n		z-index: 7;\n	}\n	.tab-3 {\n		z-index: 6;\n	}\n	.tab-4 {\n		z-index: 5;\n	}\n	.tab-5 {\n		z-index: 4;\n	}\n	.tab-6 {\n		z-index: 3;\n	}\n	.tab-7 {\n		z-index: 2;\n	}\n	.tab-8 {\n		z-index: 1;\n	}\n}\n.webicon {\n	display: inline-block;\n	background-size: 100%;\n	width: 30px;\n	height: 30px;\n	text-indent: -999em;\n	text-align: left;\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: 0 1px 0 $black_50;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 5px;\n	margin-bottom: 5px;\n	&:hover {\n		margin: -1px 0 1px;\n		//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n		box-shadow: 0 2px 0 $black_25;\n	}\n	&.small {\n		width: 20px;\n		height: 20px;\n		//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n		border-radius: 3px;\n	}\n	&.large {\n		width: 36px;\n		height: 36px;\n		//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n		border-radius: 4px;\n	}\n	&.facebook {\n		background: $url_4;\n	}\n	&.youtube {\n		background: $url_8;\n	}\n	&.linkedin {\n		background: $url_12;\n	}\n	&.twitter {\n		background: $url_16;\n	}\n	&.googleplus {\n		background: $url_20;\n	}\n}\n.no-svg {\n	.webicon {\n		&.facebook {\n			background: $url_1;\n		}\n		&.youtube {\n			background: $url_5;\n		}\n		&.linkedin {\n			background: $url_9;\n		}\n		&.twitter {\n			background: $url_13;\n		}\n		&.googleplus {\n			background: $url_17;\n		}\n	}\n	.webicon.facebook {\n		&.large {\n			background: $url_2;\n		}\n		&.small {\n			background: $url_3;\n		}\n	}\n	.webicon.youtube {\n		&.large {\n			background: $url_6;\n		}\n		&.small {\n			background: $url_7;\n		}\n	}\n	.webicon.linkedin {\n		&.large {\n			background: $url_10;\n		}\n		&.small {\n			background: $url_11;\n		}\n	}\n	.webicon.twitter {\n		&.large {\n			background: $url_14;\n		}\n		&.small {\n			background: $url_15;\n		}\n	}\n	.webicon.googleplus {\n		&.large {\n			background: $url_18;\n		}\n		&.small {\n			background: $url_19;\n		}\n	}\n}\narticle {\n	font-family: $font_0, $font_2, $font_1, $font_3;\n	color: $color_storm_dust_approx;\n	h1 {\n		font-weight: bold;\n		color: #0F5D66;\n		font-size: 16px;\n		color: #0F5D66;\n	}\n	h2 {\n		\n		font-family: Oswald;\n		font-size: 14px;\n		span{color:#093f6e;}\n	}\n	div {\n		font-size: 12px;\n	}\n	ul {\n		padding-left: 5em;\n	}\n	\n}\nspan{\n	&.star {\n		color: #f7941d;\n		font-size: 10px;\n		margin: -2px;\n		.fa-star {\n			color: #fff;\n		}\n	}\n	&.star-g{\n		color: #d1d1d1;\n		font-size: 10px;\n		margin: -2px;\n		.fa-star {\n			color: #fff;\n		}\n	}\n	&.nota{\n		color: #fff;\n		background: #2f394f;\n		padding: 2px 4px;\n	}\n	&.recenzii{\n		color: #000;\n		font-size: 11px;\n		font-weight: bold;\n	}\n	&.linkReviews a{\n		color: #09406e;\n		font-size: 12x;\n	}\n	&li.media {\n		display: inline;\n	}\n}\n\n#promotii span,#bestsellers span{\n	&.star {\n		color: #f7941d;\n		font-size: 8px;\n		margin: -2px;\n		.fa-star {\n			color: #fff;\n			font-size: 1.2em;\n		}\n	}\n	&.star-g{\n		color: #d1d1d1;\n		font-size: 8px;\n		margin: -2px;\n		.fa-star {\n			color: #fff;\n			font-size: 1.2em;\n		}\n	}\n}\n\n.productBox {text-decoration: none;}\n.btn-add {color:white;   text-decoration: none !important;cursor:pointer; line-height:3em;}\na.btn-add:hover {color:#ccc;}\n.lftButton{background:#0B1F40;border-radius:4px 0 0 4px; margin-right:1px; padding: 4px 2px 4px 8px; \n  box-shadow: 2px 3px 0px rgba(4, 4, 4, 0.3);}\n.rgtButton{background:#0B1F40;border-radius: 0 4px 4px 0; padding: 4px 8px;\n box-shadow: 2px 3px 0px rgba(4, 4, 4, 0.3);}\n\ndiv{\n	&.price {color: #333;}\n	&.name{color: #333; }\n	&.rating{padding: 1em 0}\n	&.carousel{position:relative}\n	#promotii .carousel-inner, #bestsellers .carousel-inner,{margin-left:10px;}\n	a.slideBtnL{position:absolute; z-index:100; left: -15px; top: 100px;}\n	a.slideBtnR{position:absolute; z-index:100; right: -15px; top: 100px;}\n}\na.ember-view:hover{text-decoration:none}\nh3.promoHeader{font-size:14px; color: #fff; background:#093f6d; padding: 5px 10px;}\n\n.title {\n}\n#tabs-zone {\n	margin: 1em 0;\n	li > a {\n		padding: 10px;\n	}\n}\nth {\n	padding: 0 1px;\n}\ntd {\n	padding: 3px;\n}\n.optionTable {\n	border-collapse: separate;\n	border: 1px solid $color_celeste_approx;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 5px;\n	width: 100%;\n}\n.optTh {\n	background-color: $color_atoll_approx;\n	color: $white;\n	font-weight: normal;\n	font-size: 12px;\n	text-align: center;\n	padding-top: 5px;\n	padding-bottom: 5px;\n	vertical-align: top;\n	border-right: 1px solid $color_suva_gray_approx;\n}\n.subcateg {\n	border-bottom: 1px solid $color_tiara_approx;\n	color: $color_endeavour_approx;\n	font-size: 12px;\n	text-decoration: none;\n}\n.mainProduct {\n	@extend %extend_2;\n}\n.mainPrice {\n	color: $red;\n	font-weight: bold;\n	font-size: 14px;\n	vertical-align: bottom;\n	text-align: center;\n}\n.old_price {\n	color: $color_storm_dust_approx;\n	font-weight: normal;\n	font-size: 12px;\n	display: block;\n	text-decoration: line-through;\n}\n.simpleLens-container {\n	display: table;\n	position: relative;\n}\n.simpleLens-big-image-container {\n	display: table-cell;\n	vertical-align: middle;\n	text-align: center;\n	position: relative;\n	border: 1px solid #666;\n	.brand{\n		position:absolute;\n		z-index: 100;\n		right:0;\n		img{\n			width: 75%;\n		}\n	}\n	.mareste{\n		position:absolute;\n		z-index: 100;\n		bottom: 10px;\n		font-size: 15px;\n		width: 200px;\n		left: 30px;\n		font-family: \"Open Sans\";\n		font-weight: 100;\n	}\n}\n.simpleLens-big-image {\n	max-width: 100%;\n}\n.simpleLens-lens-image {\n	height: auto !important;\n	width: 260px;\n	display: inline-block;\n	text-align: center;\n	margin: 0;\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: none;\n	float: none;\n	position: relative;\n}\n.simpleLens-mouse-cursor {\n	background-color: #CCC;\n	opacity: 0.2;\n	//filter: opacity(.2);\n	position: absolute;\n	top: 0;\n	left: 0;\n	border: 1px solid $color_mountain_mist_approx;\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: 0 0 2px 2px $color_mountain_mist_approx;\n	cursor: none;\n}\n.simpleLens-lens-element {\n	background-color: #FFFFFF;\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: 0 0 2px 2px #8E8E8E;\n	height: 400px;\n	right: 105%;\n	overflow: hidden;\n	position: absolute;\n	top: 0;\n	width: 480px;\n	z-index: 9999;\n	text-align: center;\n	img {\n		position: relative;\n		top: 0;\n		left: 0;\n		width: auto !important;\n		max-width: none !important;\n	}\n}\n.simpleLens-gallery-container {\n	position:relative;\n	padding-bottom:2em;\n	.simboluri{\n		position: absolute;\n		width: 25px;\n		right:1px;\n		img{ padding-top:2px;}\n	}\n}\narticle .text{padding-left:20px;}\n#productTabs {\n	li.active a {\n		background: $crimson;\n		color: $white;\n	}\n	a:hover {\n		color: $crimson;\n		border-bottom: 1px solid $color_boston_blue_approx;\n	}\n}\n.nav-tabs {\n	border-bottom: 1px solid $crimson;\n	background: $color_cararra_approx;\n}\n.tab-content {\n	min-height: 30em;\n	margin: 10px 0;\n}\n.glyphicon-lg {\n	font-size: 3em;\n}\n.blockquote-box {\n	border-right: 5px solid #E6E6E6;\n	margin-bottom: 25px;\n	.square {\n		width: 100px;\n		min-height: 50px;\n		margin-right: 22px;\n		text-align: center!important;\n		background-color: #E6E6E6;\n		padding: 20px 0;\n	}\n	&.blockquote-primary {\n		border-color: #357EBD;\n		.square {\n			background-color: #428BCA;\n			color: #FFF;\n		}\n	}\n	&.blockquote-success {\n		border-color: #4CAE4C;\n		.square {\n			background-color: #5CB85C;\n			color: #FFF;\n		}\n	}\n	&.blockquote-info {\n		border-color: #46B8DA;\n		.square {\n			background-color: #5BC0DE;\n			color: #FFF;\n		}\n	}\n	&.blockquote-warning {\n		border-color: #EEA236;\n		.square {\n			background-color: #F0AD4E;\n			color: #FFF;\n		}\n	}\n	&.blockquote-danger {\n		border-color: #D43F3A;\n		.square {\n			background-color: #D9534F;\n			color: #FFF;\n		}\n	}\n}\n#blister {\n	margin-top: 2em;\n	padding: 5px;\n	background: $color_alto_approx;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 4px;\n}\n.thumb {\n	border-bottom: 1px solid $color_celeste_approx;\n	border-right: 1px solid $color_celeste_approx;\n	margin: 1px;\n	p {\n		margin: 0;\n		padding: 5px;\n		&.price {\n			color: $red;\n			font-weight: 700;\n			height: 22;\n			font-size: 15px;\n			float: right;\n		}\n		&.title {\n			min-height: 3em;\n			font-size: 12px;\n			text-decoration: underline;\n			font-weight: 400;\n			color: $color_endeavour_approx;\n			font-family: $font_0, $font_1, $font_2, $font_3;\n			padding: 1px;\n		}\n	}\n	.caption {\n		margin-left: 55px;\n	}\n	a.mai_mult {\n		font-family: $font_0, $font_1, $font_2, $font_3;\n		font-size: 11px;\n		color: $color_endeavour_approx;\n		text-decoration: none;\n		font-weight: 700;\n	}\n}\n.thumb>img {\n	width: 50px;\n	float: left;\n	padding: 4px;\n}\ntable {\n	&#cList {\n		border: 1px solid $color_celeste_approx;\n		padding: 1px 3px;\n		th {\n			border: 1px solid $color_celeste_approx;\n			padding: 1px 3px;\n		}\n		td {\n			border: 1px solid $color_celeste_approx;\n			padding: 1px 3px;\n		}\n		.pret {\n			min-width: 9em;\n			text-align: center;\n		}\n		.cod {\n			text-align: center;\n		}\n		span.pret {\n			color: $red;\n			font-weight: 700;\n			height: 22;\n			font-size: 15px;\n			padding-left: 3px;\n		}\n	}\n	&#cart {\n		tbody {\n			td {\n				display: block;\n				padding: .6rem;\n				min-width: 320px;\n				.form-control {\n					width: 20%;\n					display: inline !important;\n				}\n				&:before {\n					content: attr(data-th);\n					font-weight: bold;\n					display: inline-block;\n					width: 8rem;\n				}\n			}\n			tr td:first-child {\n				background: $color_mine_shaft_approx;\n				color: $white;\n			}\n		}\n		thead {\n			display: none;\n		}\n		tfoot td {\n			display: block;\n			.btn {\n				display: block;\n			}\n		}\n	}\n}\n.table>tbody>tr>td {\n	vertical-align: middle;\n}\n.table>tfoot>tr>td {\n	vertical-align: middle;\n}\n.actions {\n	.btn {\n		width: 36%;\n		margin: 1.5em 0;\n	}\n	.btn-info {\n		float: left;\n	}\n	.btn-danger {\n		float: right;\n	}\n}\n.omb_login {\n	margin-top: 2em;\n	.omb_authTitle {\n		text-align: center;\n		line-height: 300%;\n	}\n	.omb_socialButtons {\n		a {\n			color: $white;\n			// In yourUse @body-bg opacity: 0.9;\n			&:hover {\n				color: $white;\n				opacity: 1;\n			}\n		}\n		.omb_btn-facebook {\n			background: $color_azure_approx;\n		}\n		.omb_btn-twitter {\n			background: $color_cerulean_approx;\n		}\n		.omb_btn-google {\n			background: $color_thunderbird_approx;\n		}\n	}\n	.omb_loginOr {\n		position: relative;\n		font-size: 1.5em;\n		color: $color_silver_chalice_approx;\n		margin-top: 1em;\n		margin-bottom: 1em;\n		padding-top: 0.5em;\n		padding-bottom: 0.5em;\n		.omb_hrOr {\n			background-color: $color_celeste_approx;\n			height: 1px;\n			margin-top: 0 !important;\n			margin-bottom: 0 !important;\n		}\n		.omb_spanOr {\n			display: block;\n			position: absolute;\n			left: 50%;\n			top: -0.6em;\n			margin-left: -1.5em;\n			background-color: $white;\n			width: 3em;\n			text-align: center;\n		}\n	}\n	.omb_loginForm {\n		.help-block {\n			color: $red;\n		}\n		.input-group.i {\n			width: 2em;\n		}\n	}\n}\nomb_forgotPwd {\n	padding: 10px;\n}\n.account-image {\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 50%;\n}\n#main-footer {\n	margin-top: 1em;\n	ul {\n		padding: .5em 0;\n	}\n	li {\n		list-style-type: none;\n		line-height:1.2em;\n	}\n	.copyright {\n		padding: 1em;\n		text-align: center;\n		list-style-type: none;\n		color: $white;\n		font-family: $font_5, $font_2, $font_3;\n	}\n	a {\n		color: $color_gravel_approx;\n		font-size: 13px;\n		&:hover {\n			text-decoration: none;\n			color: $color_log_cabin_approx;\n		}\n	}\n	h4 {\n		color: $color_regal_blue_approx;\n		font-size: 14px;\n		padding: .5em 0 0 0;\n		font-weight: bold;\n	}\n}\n.paddingFooter {\n	margin-right: 4em;\n}\n.footer_g1 {\n	background: $color_loblolly_approx;\n	background: linear-gradient(to bottom, $color_loblolly_approx 0,$color_mystic_approx 100%);\n	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color_loblolly_approx', endColorstr='$color_mystic_approx',GradientType=0 );\n}\n.footer_g2 {\n	background: $color_regal_blue_approx;\n	background: linear-gradient(to bottom, $color_regal_blue_approx 0,$color_venice_blue_approx 100%);\n	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color_regal_blue_approx', endColorstr='$color_venice_blue_approx',GradientType=0 );\n}\n#logo img {\n	//width: 90%;\n	margin-top: 4%;\n}\n.sec-nav li {\n	border-bottom: 1px solid #BAC3CA;\n}\np.social_icons {\n	text-align: center;\n}\n.navbar-default .navbar-nav> {\n	&.open>a {\n		@extend %extend_a1;\n		&:focus {\n			@extend %extend_a1;\n		}\n		&:active {\n			@extend %extend_a1;\n		}\n	}\n	&.active>a {\n		@extend %extend_a1;\n	}\n}\n.dropdown-menu > li > a:focus {\n	color: $white;\n	background: $black;\n}\n.social_icons .webicon {\n	margin-right: 5px;\n}\nol.breadcrumb {\n	color: #f00;\n	text-shadow: none;\n	background:none;\n	a{\n		font-weight: normal;\n		font-size: 12px;\n		color: #656565;\n	}\n}\ntr:nth-child(odd) {\n	background: $color_gallery_approx;\n}\nP.mainProduct {\n	@extend %extend_a2;\n}\n.tabs-sec ul>li {\n	font-size: 11px;\n}\nul.thumbnails {\n	padding: 0;\n	li {\n		list-style: none;\n	}\n}\nli.half {\n	width: 50%;\n	float: left;\n}\n\n//Cont nou\n\n//colors\n$color_a0: #898989;\n$color_a1: #154575;\n$color_a2: #e2e6e5;\n$color_a3: #b8b8b8;\n$color_a4: #145692;\n$color_a5: white;\n$color_a6: rgba(0,0,0,0.2);\n$color_a7: #fff;\n$color_a8: #3b5998;\n$color_a9: #30487b;\n$color_a10: #dd4b39;\n$color_a11: #ca3523;\n$black_20: rgba(0,0,0,0.2);\n\n//fonts\n$font_0: Oswald;\n\n.form-control{height:26px;}\n\n//@extend-elements\n//original selectors\n//.wrapperCN h3, .wrapperCN h4, .wrapperCN span\n%extend_a21 {\n	color: $color_a1;\n	font-weight: bold;\n	margin:0;\n}\n\n//original selectors\n//.btn-facebook:hover, .btn-facebook:focus, .btn-facebook:active, .btn-facebook.active, .open .dropdown-toggle.btn-facebook\n%extend_a22 {\n	color: $color_a7;\n	background-color: $color_a9;\n	border-color: $color_a6;\n}\n\n//original selectors\n//.btn-google-plus:hover, .btn-google-plus:focus, .btn-google-plus:active, .btn-google-plus.active, .open .dropdown-toggle.btn-google-plus\n%extend_a23 {\n	color: $color_a7;\n	background-color: $color_a11;\n	border-color: $color_a6;\n}\n\n\n//@extend-elements\n//original selectors\n//.wrapperCN h3, .wrapperCN h4, .wrapperCN span\n%extend_a1 {\n	color: #154575;\n	font-weight: bold;\n	margin: 0.2em 0 0.2em 0;\n	font-size: 14px;\n}\n\n//original selectors\n//.btn-facebook:hover, .btn-facebook:focus, .btn-facebook:active, .btn-facebook.active, .open .dropdown-toggle.btn-facebook\n%extend_a2 {\n	color: $white;\n	background-color: #30487b;\n	border-color: $black_20;\n}\n\n//original selectors\n//.btn-google-plus:hover, .btn-google-plus:focus, .btn-google-plus:active, .btn-google-plus.active, .open .dropdown-toggle.btn-google-plus\n%extend_a3 {\n	color: $white;\n	background-color: #ca3523;\n	border-color: $black_20;\n}\n\n\n.wrapperCN {\n	\n	color: #898989;\n	p {\n		padding-left: 1em;\n	}\n	h3 {\n		@extend %extend_a1;\n		font-size: 18px;\n	}\n	h4 {\n		@extend %extend_a1;\n	}\n	span {\n		@extend %extend_a1;\n	}\n	label{\n		margin-bottom: 0;\n	}\n}\n.formWrapper {\n	padding: 2em 0;\n	position: relative;\n	background: #e2e6e5;\n	border: 3px solid #b8b8b8;\n	a {\n		color: #154575;\n	}\n}\n#formLabel {\n	position: absolute;\n	top: 40px;\n	left: -40px;\n	width: 120px;\n	background: #145692;\n	color: $white;\n	font-size: 16px;\n	padding: 9px;\n}\n.daNuW {\n	padding-top: 4em;\n}\n.daNu {\n	padding: 0 1em;\n}\n.amCitit {\n	margin: 2em 0;\n}\n.varsta {\n}\n.paddingEmail{\n	padding-left: 3em;\n}\nspan.atentionare{color:#a80409; font-size:11px;}\n.exemplu {\n}\n.btn-social {\n	font-family: Oswald;\n	font-size: 12px;\n	position: relative;\n	padding-left: 44px;\n	text-align: left;\n	white-space: nowrap;\n	overflow: hidden;\n	text-overflow: ellipsis;\n	:first-child {\n		position: absolute;\n		left: 0;\n		top: 0;\n		bottom: 0;\n		width: 32px;\n		line-height: 34px;\n		font-size: 1em;\n		text-align: center;\n		border-right: 1px solid $black_20;\n	}\n	&.btn-lg {\n		padding-left: 61px;\n		:first-child {\n			line-height: 45px;\n			width: 45px;\n			font-size: 1.8em;\n		}\n	}\n	&.btn-sm {\n		padding-left: 38px;\n		:first-child {\n			line-height: 28px;\n			width: 28px;\n			font-size: 1.4em;\n		}\n	}\n	&.btn-xs {\n		padding-left: 30px;\n		:first-child {\n			line-height: 20px;\n			width: 20px;\n			font-size: 1.2em;\n		}\n	}\n}\n.btn-social-icon {\n	position: relative;\n	padding-left: 44px;\n	text-align: left;\n	white-space: nowrap;\n	overflow: hidden;\n	text-overflow: ellipsis;\n	height: 34px;\n	width: 34px;\n	padding-left: 0;\n	padding-right: 0;\n	:first-child {\n		position: absolute;\n		left: 0;\n		top: 0;\n		bottom: 0;\n		width: 32px;\n		line-height: 34px;\n		font-size: 1.6em;\n		border-right: 1px solid $black_20;\n		border: none;\n		text-align: center;\n		width: 100% !important;\n	}\n	&.btn-lg {\n		padding-left: 61px;\n		height: 45px;\n		width: 45px;\n		padding-left: 0;\n		padding-right: 0;\n		:first-child {\n			line-height: 45px;\n			width: 45px;\n			font-size: 1.8em;\n		}\n	}\n	&.btn-sm {\n		padding-left: 38px;\n		height: 30px;\n		width: 30px;\n		padding-left: 0;\n		padding-right: 0;\n		:first-child {\n			line-height: 28px;\n			width: 28px;\n			font-size: 1.4em;\n		}\n	}\n	&.btn-xs {\n		padding-left: 30px;\n		height: 22px;\n		width: 22px;\n		padding-left: 0;\n		padding-right: 0;\n		:first-child {\n			line-height: 20px;\n			width: 20px;\n			font-size: 1.2em;\n		}\n	}\n}\n.btn-facebook {\n	color: $white;\n	background-color: #3b5998;\n	border-color: $black_20;\n	&:hover {\n		@extend %extend_a2;\n	}\n	&:focus {\n		@extend %extend_a2;\n	}\n	&:active {\n		@extend %extend_a2;\n		background-image: none;\n	}\n	&.active {\n		@extend %extend_a2;\n		background-image: none;\n	}\n	&.disabled {\n		background-color: #3b5998;\n		border-color: $black_20;\n		&:hover {\n			background-color: #3b5998;\n			border-color: $black_20;\n		}\n		&:focus {\n			background-color: #3b5998;\n			border-color: $black_20;\n		}\n		&:active {\n			background-color: #3b5998;\n			border-color: $black_20;\n		}\n	}\n}\n.btn-facebook[disabled] {\n	background-color: #3b5998;\n	border-color: $black_20;\n	&:hover {\n		background-color: #3b5998;\n		border-color: $black_20;\n	}\n	&:focus {\n		background-color: #3b5998;\n		border-color: $black_20;\n	}\n	&:active {\n		background-color: #3b5998;\n		border-color: $black_20;\n	}\n	&.active {\n		background-color: #3b5998;\n		border-color: $black_20;\n	}\n}\nfieldset[disabled] {\n	.btn-facebook {\n		background-color: #3b5998;\n		border-color: $black_20;\n		&:hover {\n			background-color: #3b5998;\n			border-color: $black_20;\n		}\n		&:focus {\n			background-color: #3b5998;\n			border-color: $black_20;\n		}\n		&:active {\n			background-color: #3b5998;\n			border-color: $black_20;\n		}\n		&.active {\n			background-color: #3b5998;\n			border-color: $black_20;\n		}\n	}\n	.btn-google-plus {\n		background-color: #dd4b39;\n		border-color: $black_20;\n		&:hover {\n			background-color: #dd4b39;\n			border-color: $black_20;\n		}\n		&:focus {\n			background-color: #dd4b39;\n			border-color: $black_20;\n		}\n		&:active {\n			background-color: #dd4b39;\n			border-color: $black_20;\n		}\n		&.active {\n			background-color: #dd4b39;\n			border-color: $black_20;\n		}\n	}\n}\n.btn-google-plus {\n	color: $white;\n	background-color: #dd4b39;\n	border-color: $black_20;\n	&:hover {\n		@extend %extend_a3;\n	}\n	&:focus {\n		@extend %extend_a3;\n	}\n	&:active {\n		@extend %extend_a3;\n		background-image: none;\n	}\n	&.active {\n		@extend %extend_a3;\n		background-image: none;\n	}\n	&.disabled {\n		background-color: #dd4b39;\n		border-color: $black_20;\n		&:hover {\n			background-color: #dd4b39;\n			border-color: $black_20;\n		}\n		&:focus {\n			background-color: #dd4b39;\n			border-color: $black_20;\n		}\n		&:active {\n			background-color: #dd4b39;\n			border-color: $black_20;\n		}\n	}\n}\n.btn-google-plus[disabled] {\n	background-color: #dd4b39;\n	border-color: $black_20;\n	&:hover {\n		background-color: #dd4b39;\n		border-color: $black_20;\n	}\n	&:focus {\n		background-color: #dd4b39;\n		border-color: $black_20;\n	}\n	&:active {\n		background-color: #dd4b39;\n		border-color: $black_20;\n	}\n	&.active {\n		background-color: #dd4b39;\n		border-color: $black_20;\n	}\n}\n.open .dropdown-toggle {\n	&.btn-facebook {\n		@extend %extend_2;\n		background-image: none;\n	}\n	&.btn-google-plus {\n		@extend %extend_3;\n		background-image: none;\n	}\n}\n.btn-facebook.disabled.active {\n	background-color: #3b5998;\n	border-color: $black_20;\n}\n.btn-google-plus.disabled.active {\n	background-color: #dd4b39;\n	border-color: $black_20;\n}",
+			"file": "app/styles/app.scss",
+			"file_size": 37395,
+			"file_write_time": 130725512233884217,
+			"settings":
+			{
+				"buffer_size": 37395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/product.hbs",
+			"settings":
+			{
+				"buffer_size": 3751,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/index.hbs",
+			"settings":
+			{
+				"buffer_size": 2308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/components/product-carousel.hbs",
+			"settings":
+			{
+				"buffer_size": 679,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/product-single-view.hbs",
+			"settings":
+			{
+				"buffer_size": 1331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/products-row-view.js",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sublime li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Previous Error"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sub",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Add Repository"
+			],
+			[
+				"ss",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 447.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request, OS; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path (); urllib.request.install_opener (urllib.request.build_opener (urllib.request.ProxyHandler ())); open (os.path.join (ipp, pf), 'wb'). write (urllib.request.urlopen ('http://sublime.wbond.net/' + pf.replace ('', '% 20' )). read ())",
+			"  import urllib.request, OS; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path (); urllib.request.install_opener (urllib.request.build_opener (urllib.request.ProxyHandler ())); open (os.path.join (ipp, pf), 'wb'). write (urllib.request.urlopen ('http://sublime.wbond.net/' + pf.replace ('', '% 20' )). read ())",
+			" import urllib.request, OS; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path (); urllib.request.install_opener (urllib.request.build_opener (urllib.request.ProxyHandler ())); open (os.path.join (ipp, pf), 'wb'). write (urllib.request.urlopen ('http://sublime.wbond.net/' + pf.replace ('', '% 20' )). read ())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ovidiu/store/work/ToolzApp",
+		"/home/ovidiu/store/work/ToolzApp/app",
+		"/home/ovidiu/store/work/ToolzApp/app/adapters",
+		"/home/ovidiu/store/work/ToolzApp/app/components",
+		"/home/ovidiu/store/work/ToolzApp/app/controllers",
+		"/home/ovidiu/store/work/ToolzApp/app/mixins",
+		"/home/ovidiu/store/work/ToolzApp/app/routes",
+		"/home/ovidiu/store/work/ToolzApp/app/styles",
+		"/home/ovidiu/store/work/ToolzApp/app/templates",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/components",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/product",
+		"/home/ovidiu/store/work/ToolzApp/app/views",
+		"/home/ovidiu/store/work/ToolzApp/public"
+	],
+	"file_history":
+	[
+		"/home/ovidiu/store/work/ToolzApp/app/templates/product.hbs",
+		"/home/ovidiu/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/cont-nou.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/mixins/product.js",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/product/protectia-muncii-tabpane.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/routes/product.js",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/mainmenu.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/controllers/application.js",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/application.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/components/cart-client.hbs",
+		"/home/ovidiu/store/work/ToolzApp/.ember-cli",
+		"/home/ovidiu/store/work/ToolzApp/app/controllers/product.js",
+		"/home/ovidiu/store/work/ToolzApp/app/views/pdf-view.js",
+		"/home/ovidiu/store/work/ToolzApp/tests/unit/views/pdf-test.js",
+		"/home/ovidiu/store/work/ToolzApp/app/views/pdf.js",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/product/detalii-tabpane.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/index.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/footer.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/header.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/specialisti.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/aside.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/components/product-carousel.hbs",
+		"/home/ovidiu/store/work/ToolzApp/public/assets/app.css",
+		"/home/ovidiu/store/work/ToolzApp/package.json",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/product/produse-alternative-tabpane.hbs",
+		"/home/ovidiu/store/work/ToolzApp/dist/assets/toolz-app-f5a84d2f19dd3110b1f2a5ea243b6fc5.css",
+		"/home/ovidiu/store/work/ToolzApp/public/assets/imgs/banners/3.tif",
+		"/home/ovidiu/store/work/ToolzApp/node_modules/broccoli-sass/node_modules/node-sass/test/sass-spec/spec/basic/39_dash_match_attribute_selector/expected_output.css",
+		"/home/ovidiu/store/work/ToolzApp/app/styles/app.css_",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/login.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/controllers/login.js",
+		"/home/ovidiu/store/work/ToolzApp/app/routes/application.js",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/forum.hbs",
+		"/home/ovidiu/store/work/ToolzApp/Brocfile.js",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/despre-noi.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/controllers/cont-nou.js",
+		"/home/ovidiu/store/work/ToolzApp/app/controllers/contul-meu.js",
+		"/home/ovidiu/store/work/ToolzApp_de_sters/app/controllers/cont-nou.js",
+		"/home/ovidiu/store/work/ToolzApp/app/adapters/application.js",
+		"/home/ovidiu/store/work/ToolzApp/app/adapters/cart.js",
+		"/home/ovidiu/store/work/ToolzApp/app/controllers/user-data.js",
+		"/home/ovidiu/store/work/ToolzApp/app/templates/cartnclient.hbs",
+		"/home/ovidiu/store/work/ToolzApp/app/torii-adapters/application.js",
+		"/home/ovidiu/store/work/ToolzApp/app/adapters/cart-item.js",
+		"/home/ovidiu/store/work/ToolzApp/app/adapters/catalog.js",
+		"/home/ovidiu/store/work/ToolzApp/app/adapters/contul-meu.js",
+		"/home/ovidiu/store/work/ToolzApp/bower.json",
+		"/home/ovidiu/store/work/ToolzApp/app/models/application.js",
+		"/home/ovidiu/store/work/ToolzApp/app/controllers/cart.js",
+		"/home/ovidiu/store/work/ToolzApp/app/initializers/cart.js",
+		"/home/ovidiu/store/work/ToolzApp/app/models/cart-item.js",
+		"/home/ovidiu/store/work/ToolzApp/app/models/cart.js",
+		"/home/ovidiu/store/work/ToolzApp/app/models/catalog.js",
+		"/home/ovidiu/store/work/ToolzApp/app/models/catalogs.js",
+		"/home/ovidiu/store/work/ToolzApp/app/models/contul-meu.js",
+		"/home/ovidiu/store/work/ToolzApp/app/models/product.js",
+		"/home/ovidiu/store/work/ToolzApp/app/models/user.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/inscriere-newsletter.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/rss.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/despre-noi.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/call-to-action.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/filosofie.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet/classic-line.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/index.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet/dp-line.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet/ec-living.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet/prelude-line.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/Brocfile.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/contact.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/styles/app.css",
+		"/home/ovidiu/store/work/audiotehnic.net/config/environment.js",
+		"/home/ovidiu/store/work/audiotehnic.net/node_modules/ember-cli-bootstrap/index.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/routes/contact.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/models/contact.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/components/google-map.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/soundcare.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/upgrade.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/bestof.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/lansari.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/stirisirecenzii.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet/preturi.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/brodmann.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/controllers/contact.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/router.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/inscririere-newsletter.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/inscriere-newsletter.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet/classic-line.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/headerr.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/von-schweikert.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/music-tools.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/acoustic-zen.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/advance-acoustic.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/transrotor.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/application.hbs__",
+		"/home/ovidiu/store/work/audiotehnic.net/app/routes/application.js",
+		"/home/ovidiu/store/work/audiotehnic.net/config/environment.js_",
+		"/home/ovidiu/store/work/audiotehnic.net/public/js/myscript.js",
+		"/home/ovidiu/store/work/audiotehnic.net/Brocfile.js_",
+		"/home/ovidiu/store/work/audiotehnic.net/app/router.js_",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/application.hbs_",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/application.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/index.html",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/upgrade.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/bower.json",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/application.emblem",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/sidebar.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet/ec-living.jade",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/electrocompaniet/ec-living.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/main-menu.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/dist/assets/vendor.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/servicii.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/filosofie.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/von-schweikert.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/cele-mai-apreciate.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/von-schweikert/preturi.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/transrotor/preturi.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/brodmann/preturi.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/advance-acoustic/preturi.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/acoustic-zen/preturi.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/controllers/electrocompaniet/ec-living.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/soundcare/preturi.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/music-tools/preturi.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/soundcare.hbs",
+		"/home/ovidiu/store/work/audiotehnic.net/tests/unit/routes/sound-care-test.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/routes/sound-care.js",
+		"/home/ovidiu/store/work/audiotehnic.net/app/templates/sound-care.hbs"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"maincarousel",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"row",
+			"=\"\">",
+			"$color_eastern_blue_approx",
+			"#20a2b1",
+			"#main-nav ",
+			"2a6496",
+			"btn-",
+			"a ",
+			"class=\"row",
+			"ember-view row",
+			"star",
+			"arcti",
+			"arcticl",
+			"pdf",
+			"simpleLens",
+			"simpleGallery",
+			"toolszone.info",
+			"export default Ember.Route.extend(LazyLoaderMixin,{",
+			"280px",
+			"osw",
+			"producte",
+			"font-size: 13px;",
+			"stars",
+			"under",
+			"<section id=\"main\" class=\"row\">",
+			"\"main\"",
+			";\n",
+			">\n>",
+			"bcname",
+			"befo",
+			"after",
+			"	\n",
+			"breadcrumb",
+			"size",
+			"extend_A22",
+			"%extend",
+			"color_",
+			"color_a6",
+			"color_",
+			"wrapercn",
+			"btn-facebook:hover",
+			"face",
+			".face",
+			"faceb",
+			"mainbox",
+			"\">\n",
+			"nav",
+			"extend_1",
+			"nav.navbar-default",
+			"color_alizarin_crimson_approx",
+			"#b11f19",
+			"linear-gradient(to bottom, #da261e 0, #b11f19 100%)",
+			"1.5",
+			"#logo",
+			"12px",
+			"#buttons",
+			"body",
+			"cartnclient b",
+			"body",
+			"Transport",
+			"90%",
+			".navb",
+			"border: 1",
+			".navbar",
+			"50p",
+			"min-he",
+			"min-hr",
+			"collapse",
+			"main-na",
+			"main",
+			"15",
+			"pze",
+			";}",
+			"main-nav",
+			"}\n",
+			"menu",
+			"\n#",
+			"}}\n",
+			"foote",
+			"</a>",
+			";\n",
+			"face",
+			"goTo",
+			"offset",
+			"							<label class=\"checkbox\">\n								<input type=\"checkbox\" value=\"remember-me\">Ține-mă minte\n							</label>",
+			"sau ",
+			"am uitat",
+			"api/",
+			"api",
+			"cartI",
+			"carti",
+			"200808150000.00",
+			"v1.php",
+			"api/v1.php",
+			"/components/google-map.js",
+			"https://github.com/madonion/audiotehnic.net.git",
+			"      '",
+			"iframe src=\"https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sro!4v1420551553287!6m8!1m7!1sHKzoVBKuYLCCGEAm1W_Gww!2m2!1d44.9259819!2d25.4620228!3f151.9673656368498!4f-1.7661854719099495!5f0.7820865974627469\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\"",
+			"iframe",
+			"AUDIOTEHNIC",
+			"EMC1UP",
+			"\n",
+			"AUDIOTEHNIC Impex va propune upgradarea echipamentelor Dvs:\n\nELECTROCOMPANIET ofera prin AUDIOTEHNIC Impex in Romania posibilitatea de a va aduce la zi din punct de vedere tehnic oricare din produsele sale. Grija producatorului pentru a proteja investitia fiecarui client in echipamentele ELECTROCOMPANIET pe o durata lunga de timp permite extinderea duratei de viata si reducerea cheltuielilor deopotriva pentru orice audiofil.\n\nAUDIOTEHNIC Impex va asigura instalarea acestor kit-uri si consultanta pentru optimizarea actualizarii produsului aflat in utilizarea Dvs. Pentru aceasta este suficient sa ne comunicati denumirea comerciala si seria ce se afla pe panoul din spate al aparatului Dvs. dupa care AUDIOTEHNIC Impex se va ocupa de configurarea optima a actualizarilor disponibile produsului aflat in utilizarea Dvs.\n\nFacem mentiunea ca actualizarea tehnica a produselor ce nu se mai afla in fabricatie este posibila deoarece toate produsele ELECTROCOMPANIET urmeaza acelasi concept de design, iar imbunatatirea performantelor se va face prin inlocuirea unor componente electronice. Un foarte bun exemplu este introducerea sursei de alimentare analogice in tehnologie FTT (Floating Transformer Technology - tehnologia bazata pe puncte de referinta de tensiune virtuala).\n\nIn conformitate cu filozofia ELECTROCOMPANIET, sunt disponibile doua kit-uri de actualizare, dupa cum urmeaza:\n\nKit-ul 1 - imbunatateste dramatic viteza raspunsului sursei de alimentare analogica la variatiile curentului in sarcina;\nKit-ul 2 - imbunatateste fidelitatea prin cresterea vitezei raspunsului sursei de alimentare si a etajului final de amplificare;\n\nRecomandari de utilizare: \n\nKit-ul 1 - se poate utiliza la CD player-ul EMC-1 in varianta produsa pana la sfarsitul anului 1999 si toate preamplificatoarele fabricate pana la sfarsitul anului 2001;\nKit-ul 2 - se poate utiliza la toate amplificatoarele integrate si amplificatoarele de putere fabricate pana la sfarsitul anului 2002;\n\nELECTROCOMPANIET multumeste lui Alan Warshaw de la Jason Scott Distributing Inc. USA pentru ajutorul dat la dezvoltarea si implementarea acestor actualizari.\n\n\nPreturile orientative ale kit-urilor de actualizare pe produse includ consultanta, transportul si instalarea de catre AUDIOTEHNIC Impex, dupa cum urmeaza:\n\nProduct	 	EURO\nNEMO (pair)	 	1.838,-\nAW250	 	919,-\nAW180 (pair)	 	919,-\nAW120,100DMB	 	500,-\nAW220,60	 	375,-\nECI1	 	500,-\nECI2, 3, 4	 	375,-\nEC4.5, 4.6, 4.7	 	228,-\nEMC1-NOT inc. 24/192Dac	 	228,-\nEMC1UP	 	228,-",
+			"li",
+			"				br",
+			"|",
+			"<br>",
+			"br",
+			"</p>",
+			"<p>",
+			"\n",
+			" \n",
+			"2007",
+			"VON",
+			"\n	",
+			"VON SCHWEIKERT ( site oficial ) - Catalog Von Schweikert Audio 2007\n\nPREZENTARE - Utilitar VSA pentru sisteme Home Theater (toate drepturile rezervate VSA)\n\nFondatorul companiei Von Schweikert Audio din California-SUA este Albert Von Schweikert, unul dintre cei mai renumiti si respectati specialisti in acustica din toate timpurile. \n\nAvand o experienta in domeniul ingineriei sistemelor acustice de peste 40 de ani, in ultimii 25 de ani Albert a proiectat si a construit o gama foarte larga de difuzoare, crossovere si incinte acustice pentru mai mult de 100 de produse, atat pentru compania lui cat si pentru marci celebre (click pentru colaborarile sale - Stefan, informatia in josul paginii). \n\nDe-a lungul timpului produsele Von Schweikert Audio au obtinut nenumarate premii (click premii - Stefan link catre pagina de web oficiala) fiind recunoscute pe plan modial datorita unui raport calitate/pret mult peste concurentii directi.\n\nSintetizand, Audiotehnic Impex va prezinta 10 motive pentru a va dota camera de auditie sau de Home Theater cu incintele acustice realizate de Von Schweikert Audio:\n\n1. Produsele lor au primit mai multe premii internationale decat orice alta companie concurenta.\n\n2. Mai mult de 40 de ani experienta in proiectarea si executia celor mai bune incinte acustice din lume.\n\n3. Fiecare produs are o garantie transferabila de 10 ani - cea mai buna oferta din lume.\n\n4. Prin distribuitorul exclusiv din Romania, AUDIOTEHNIC Impex, se ofera facilitati de leasing si \"buy-back\" la gama Premium. \n\n5. Pentru proiectarea si testarea produselor sale Albert a folosit echipamente de 10 milioane de dolari.\n\n6. Proprietarul companiei, Albert Von Schweikert este cel mai titrat inginer acustician din lume, realizand proiecte pentru:\nBose, JBL, ESS / Heil, Eggleston, Apogee, Cerwin Vega, Jensen, NHT si multe alte marci foarte celebre cu care exista contracte de confidentialitate. \n\n7. Portofoliul de produse este cel mai larg si mai bine reprezentat pe piata de profil, cu preturi ce ajung pana la $150,000 FOB USA (cazul produsului exclusiv VR-11SE).\n\n8. Este selectat ca partener oficial pentru studiourile MTV. \n\n9. Printre clientii faimosi se pot intalni: Alan Menken - castigatorul a 7 premii \"Academy Awards for film scores\"; Disney, Herb Alpert de la A&M Records USA; celebra casa Steinway; Laboratoarele acustice Mobile Fidelity Sound Labs; JVC of America (Hollywood video screening room); Laboratoarele Acustice Sheffield Sound Labs; Stan Ricker Mastering; Beatles, Eric Clapton, Boston Pops, Pink Floyd, Ray Charles, etc; Chris Huston; Grammy Awarded engineer for Led Zeplin, The Who, Pattie LaBelle, Tod Rundgren, etc); si inca peste 40 de studiouri profesionale de inregistrari din intreaga lume.\n\n10. Calitatile acustice ale oricarui produs VSA sunt dovedit mai bune, avand in vedere premiile obtinute, decat la orice alt produs in aceeasi gama de pret din lume!\n\n================\n\nProduse si marci pentru care Albert Von Schweikert a avut contracte de consultanta:\n\nEggleston \na proiectat incintele acustice Savoy si Andra II\n\nJBL\na proiectat difuzoare si crossovere \n\nNHT\na proiectat si construit toate difuzoarele la inceputurile activitatii acestei companii\n\nKlipsch\na construit toate crossoverele \n\nCerwin Vega \na construit difuzoarele de frecvente medii\n\nJensen\na construit si fabricat toate tweeter-ele intregii linii\n\nMobile Fidelity\na proiectat toate linia de incinte acustice\n\nBose \na proiectat difuzoarele si parti din crossovere\n\nSteinway\na proiectat 3 modele de incinte acustice speciale\n\nPolk Audio\na proiectat si construit crossovere si a construit difuzoare pentru multe din produsele acestei companii\n\nAltec Lansing\na proiectat crossoverele si incintele acustice pentru multe din produsele originale Altec Lansing\n\nApogee\na proiectat si construit parti de crossover \n\nSouthern Audio System \"BAZOOKA\" subwoofer \na reproiect pentru executie carcasa si difuzorul (produs vandut in mai bine de 17 milioane de exemplare) \n\nFisher / Sanyo Electric \na proiectat si executat difuzoarele si crossoverele pentru incintele acustice cu 3 cai\n\nESS / Heil\na fost asistentul personal al lui Dr. Heil - a proiectat prima incinta acustica a marcii cu 3 cai si a reproiectat pentru executie toate crossoverele, facand si o adaptare a carcasei\n\n\"Kicker\" Car Speakers \na proiectat numeroase difuzoare\n\nRadio Shack\na proiectat toate difuzoarele ce s-au vandut ca piese de schimb prin Radio Shack. In plus a mai proiectat si construit incintele acustice cu 2 cai \"Optimus\", vandute prin Radio Shack.\n\nInfinity \na proiectat si executat difuzoare, cablaje de crossover si parti din crossovere\n\nDK Design / Larry Staples Audio \na proiectat singura varianta de incinta acustica a companiei\n\nFPS (Japan) \na proiectat toate difuzoarele pentru multimedia si incintele acustice de mare putere\n\nJVC Theater Showroom / Cyprus California \na proiectat o incinta acustica cu 7 cai pentru un proiect deosebit\n\nSheffield Labs \na proiectat si construit monitoarele de studio\n\nCapitol Records / Nashville \na proiectat monitoarele de studio\n\nMercury Records / Nashville \na proiectat monitoarele de studio\n\nChris Huston / Rives Audio \na proiectat monitoarele de studio de referinta\n			\n",
+			"vendor/ember-cli-bootstrap/shim.js",
+			"/inscriere-newsletter",
+			"justi",
+			"dg",
+			"/\"",
+			"myscript",
+			"images/",
+			">",
+			"$('li.hide').css({\"display\":\"initial\"});",
+			"display:no",
+			"ELECTROCOMPANIET Norvegia a prezentat primul sau amplificator acum 35 de ani. \nEra un amplificator tranzistorizat de 25W ce ingloba un concept nou, cu rezultate extraordinare in redarea sunetului. Pentru audiofili, dezvoltarea teoretica a lui Matti Otala (doctor in stiinte) si contributia unui practician desavarsit, Jan Lohstro, aveau sa se regaseasca in acest prim produs, aparut si finantat initial din nevoia fondatorului ELECTROCOMPANIET, instrumentistul Per Abrahamsen sa-si asigure sonorizarea propriei orchestre de muzica rock.",
+			"ELECTROCOMPANIET"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://www.electrocompaniet.no/dg/images/",
+			"mainCarousel",
+			"div",
+			"toolszone.info",
+			"cartnclient",
+			"login",
+			"google",
+			"facebook",
+			"",
+			"product",
+			"1000",
+			"520",
+			"model.data.",
+			"",
+			"#",
+			"",
+			"Mai mult",
+			"col-md-4",
+			"bind-attr",
+			"",
+			"assets/",
+			"assets/imgs/",
+			"<img src=\"holder.js/295x200\" alt=\"...\">",
+			"#",
+			"`polimedt_provita`",
+			"`polimedt_poli`",
+			"'polimedt_poli'",
+			"http://www.erevmax.com/",
+			"Tastati mesajul",
+			"a",
+			"i",
+			"S",
+			"t",
+			"s",
+			"",
+			"</p>",
+			"<p>",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/styles/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15248,
+								15248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7996.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/templates/product.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/templates/index.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2009,
+								2009
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 357.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/templates/components/product-carousel.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/templates/product-single-view.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/products-row-view.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "toolz.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 285.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
